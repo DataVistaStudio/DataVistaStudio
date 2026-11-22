@@ -1,29 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 810" width="1440" height="810" role="img" aria-label="OBSERVATORIES — Regional monitoring perspectives.">
-<title>OBSERVATORIES</title><desc>Regional monitoring perspectives. — editorial vector portfolio artwork by DataVista Studio, not a screenshot</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="810" viewBox="0 0 1440 810" role="img" aria-labelledby="title desc">
+<title id="title">OBSERVATORIES — DataVista Studio editorial art</title>
+<desc id="desc">A connected editorial atlas for regional source monitoring. Original editorial vector art, not a screenshot or a representation of live data.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091C28"/><stop offset=".55" stop-color="#102C3A"/><stop offset="1" stop-color="#123A41"/></linearGradient>
-  <radialGradient id="halo"><stop stop-color="#9FD4C3" stop-opacity=".16"/><stop offset="1" stop-color="#9FD4C3" stop-opacity="0"/></radialGradient>
-  <pattern id="dots" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.4" fill="#ECDEC4" opacity=".20"/></pattern>
+ <linearGradient id="main" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091f2e"/><stop offset=".5" stop-color="#0c2737"/><stop offset="1" stop-color="#16384a"/></linearGradient>
+ <linearGradient id="soft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dfc493" stop-opacity=".56"/><stop offset="1" stop-color="#dfc493" stop-opacity=".04"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#122f3d" stop-opacity=".93"/><stop offset="1" stop-color="#081c2a" stop-opacity=".96"/></linearGradient>
+ <pattern id="grain" patternUnits="userSpaceOnUse" width="41" height="41"><circle cx="5" cy="8" r=".8" fill="#e7d6b6" opacity=".22"/><circle cx="31" cy="26" r="1.2" fill="#dfc493" opacity=".18"/></pattern>
+ <clipPath id="artclip"><rect x="760" y="35" width="644" height="737" rx="12"/></clipPath>
 </defs>
-<rect width="1440" height="810" fill="url(#bg)"/>
-<rect x="760" y="0" width="680" height="810" fill="url(#dots)" opacity=".32"/>
-<circle cx="1080" cy="412" r="375" fill="url(#halo)"/>
-<circle cx="1080" cy="412" r="286" fill="none" stroke="#9FD4C3" stroke-opacity=".25" stroke-width="2"/>
-<circle cx="1080" cy="412" r="222" fill="#102B34" fill-opacity=".48" stroke="#9FD4C3" stroke-opacity=".75" stroke-width="3"/>
-<circle cx="1080" cy="412" r="308" fill="none" stroke="#9FD4C3" stroke-opacity=".12" stroke-width="1" stroke-dasharray="4 19"/>
-<path d="M786 715 C905 632 978 661 1106 580 C1209 509 1312 520 1454 426" fill="none" stroke="#F5E8D3" stroke-opacity=".22" stroke-width="2"/>
-<path d="M795 728 C928 644 992 673 1121 598 C1228 534 1336 541 1454 457" fill="none" stroke="#E8CF9F" stroke-opacity=".12" stroke-width="2"/>
-<rect x="18" y="18" width="1404" height="774" rx="24" fill="none" stroke="#D9B788" stroke-opacity=".32" stroke-width="2"/>
-<rect x="73" y="86" width="12" height="12" rx="2" fill="#9FD4C3"/><text x="106" y="98" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="650" letter-spacing="5" fill="#F3EFE7">DATAVISTA <tspan fill="#9FD4C3">STUDIO</tspan></text>
-<text x="1352" y="101" font-family="Inter,Arial,sans-serif" font-size="20" text-anchor="end" letter-spacing="3" fill="#D4DACE" opacity=".75">SELECTED WORK</text>
-<path d="M80 223h118" stroke="#9FD4C3" stroke-width="5" stroke-linecap="round"/>
-<text x="79" y="270" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="650" letter-spacing="5" fill="#9FD4C3">SOURCE INTELLIGENCE</text>
-<text x="74" y="402" font-family="Inter,Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-2.4" fill="#FAF8F1">OBSERVATORIES</text>
-<text x="80" y="474" font-family="Inter,Arial,sans-serif" font-size="31" font-weight="400" fill="#D3DFDC">Regional monitoring perspectives.</text>
-<path d="M80 624h545" stroke="#E4DDD1" stroke-opacity=".17" stroke-width="2"/>
-<text x="80" y="682" font-family="Inter,Arial,sans-serif" font-size="22" letter-spacing="3" fill="#F0D5B2" opacity=".88">PRODUCT / PROJECT PROFILE</text>
-<g style="color:#9FD4C3" transform="translate(940 279) scale(1.05)"><g fill="none" stroke="currentColor" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"><circle cx="128" cy="128" r="88"/><path d="M40 128h176M128 40c-54 42-54 135 0 176M128 40c54 42 54 135 0 176M61 84h133M61 171h133"/></g></g>
-<circle cx="1080" cy="187" r="10" fill="#9FD4C3"/><circle cx="1244" cy="567" r="7" fill="#9FD4C3" opacity=".9"/>
-<text x="79" y="747" font-family="Inter,Arial,sans-serif" font-size="23" font-weight="500" letter-spacing="2" fill="#A5C1C3">DATAVISTA.STUDIO</text>
-<text x="1360" y="747" font-family="Inter,Arial,sans-serif" font-size="23" text-anchor="end" font-weight="600" letter-spacing="3" fill="#9FD4C3">11 / 16</text>
+<rect width="1440" height="810" fill="url(#main)"/>
+<rect width="1440" height="810" fill="url(#grain)" opacity=".45"/>
+<rect x="18" y="18" width="1404" height="774" rx="16" fill="none" stroke="#d8be98" stroke-width="1.5" opacity=".45"/>
+<path d="M750 34V773" stroke="#d8c8aa" opacity=".14"/>
+<g clip-path="url(#artclip)">
+<rect x="760" y="35" width="650" height="738" fill="#183646"/>
+<path d="M785 108l138-44 180 26 128 89 165-38v583l-175-35-159 46-152-25-123 34z" fill="#bda17d" opacity=".10"/>
+<path d="M785 48l-92 700" stroke="#ddcaaa" opacity="0.25" stroke-width="2"/><path d="M833 48l-92 700" stroke="#ddcaaa" opacity="0.08" stroke-width="1"/><path d="M881 48l-92 700" stroke="#ddcaaa" opacity="0.08" stroke-width="1"/><path d="M929 48l-92 700" stroke="#ddcaaa" opacity="0.25" stroke-width="2"/><path d="M977 48l-92 700" stroke="#ddcaaa" opacity="0.08" stroke-width="1"/><path d="M1025 48l-92 700" stroke="#ddcaaa" opacity="0.08" stroke-width="1"/><path d="M1073 48l-92 700" stroke="#ddcaaa" opacity="0.25" stroke-width="2"/><path d="M1121 48l-92 700" stroke="#ddcaaa" opacity="0.08" stroke-width="1"/><path d="M1169 48l-92 700" stroke="#ddcaaa" opacity="0.08" stroke-width="1"/><path d="M1217 48l-92 700" stroke="#ddcaaa" opacity="0.25" stroke-width="2"/><path d="M1265 48l-92 700" stroke="#ddcaaa" opacity="0.08" stroke-width="1"/><path d="M1313 48l-92 700" stroke="#ddcaaa" opacity="0.08" stroke-width="1"/><path d="M1361 48l-92 700" stroke="#ddcaaa" opacity="0.25" stroke-width="2"/>
+<circle cx="1119" cy="412" r="294" fill="#223a43" stroke="#e2c59a" stroke-width="5" />
+<circle cx="1119" cy="412" r="275" fill="#d5c09b" opacity=".12"/>
+<circle cx="1119" cy="412" r="65" fill="none" stroke="#e9d4b2" stroke-width="1.5" opacity=".46"/><circle cx="1119" cy="412" r="135" fill="none" stroke="#e9d4b2" stroke-width="1.5" opacity=".46"/><circle cx="1119" cy="412" r="205" fill="none" stroke="#e9d4b2" stroke-width="1.5" opacity=".46"/><circle cx="1119" cy="412" r="275" fill="none" stroke="#e9d4b2" stroke-width="1.5" opacity=".46"/>
+<ellipse cx="1119" cy="412" rx="135" ry="274" fill="none" stroke="#efddbe" stroke-width="2" opacity=".5"/>
+<ellipse cx="1119" cy="412" rx="225" ry="274" fill="none" stroke="#efddbe" stroke-width="2" opacity=".37"/>
+<path d="M844 412h551M859 307h523M866 517h505" fill="none" stroke="#f0dec0" stroke-width="1.5" opacity=".48"/>
+<path d="M949 262l72-35 69 26 11 47 59 17 32 46-34 26-5 44-44 20-45 89-45-30-12-70-49-43-48-5-10-62z" fill="#d9bd8d" opacity=".78"/>
+<path d="M1192 231l68-39 80 40 17 59-52 41-17 72-64 3-37-69 18-53z" fill="#ad9477" opacity=".80"/>
+<path d="M1050 519l58 7 32 77-13 62-53-34-36-65z" fill="#c8b28a" opacity=".87"/>
+<path d="M1266 482l47 21 37 42-22 27-41-12z" fill="#c8ac81" opacity=".72"/>
+<circle cx="1228" cy="374" r="19" fill="none" stroke="#7fd3c0" stroke-width="4"/><circle cx="1228" cy="374" r="5" fill="#7fd3c0"/>
+<circle cx="992" cy="369" r="16" fill="none" stroke="#e6c994" stroke-width="4"/><circle cx="992" cy="369" r="5" fill="#e6c994"/>
+<path d="M992 369Q1081 291 1228 374" fill="none" stroke="#e5c693" stroke-width="3" stroke-dasharray="9 10"/>
+<rect x="873" y="631" width="423" height="64" rx="2" fill="#0c2838" opacity=".89" stroke="#d9c4a3" stroke-width="1"/>
+<text x="897" y="670" fill="#efd8b5" font-size="20" letter-spacing="3" font-family="Arial">11 REGIONAL PERSPECTIVES</text>
+</g>
+<rect x="45" y="46" width="659" height="716" rx="8" fill="url(#panel)" opacity=".85"/>
+<rect x="77" y="86" width="12" height="12" fill="#dfc493"/>
+<text x="111" y="98" fill="#f9f2e6" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" letter-spacing="4">DATAVISTA <tspan fill="#dfc493">STUDIO</tspan></text>
+<text x="1350" y="98" fill="#f7ecda" font-family="Arial,Helvetica,sans-serif" font-size="20" text-anchor="end" letter-spacing="3" opacity=".85">SELECTED WORK</text>
+<path d="M85 238H208" stroke="#dfc493" stroke-width="5"/>
+<text x="83" y="286" fill="#dfc493" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing="4.5" font-weight="700">REGIONAL INTELLIGENCE</text>
+<text x="74" y="405" fill="#fbf5e9" font-family="Arial,Helvetica,sans-serif" font-size="70" font-weight="800" letter-spacing="-1.5">OBSERVATORIES</text>
+<text x="83" y="480" fill="#d6dfde" font-family="Arial,Helvetica,sans-serif" font-size="29">Eleven perspectives. One atlas.</text>
+<path d="M83 629H630" stroke="#e2caaa" stroke-width="1.8" opacity=".3"/>
+<text x="83" y="670" fill="#ecd6b4" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="3">ORIGINAL EDITORIAL ARTWORK</text>
+<text x="83" y="745" fill="#a4c2c5" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing="2">DATAVISTA.STUDIO</text>
+<text x="1365" y="745" text-anchor="end" fill="#dfc493" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" letter-spacing="2">11 / 16</text>
 </svg>
