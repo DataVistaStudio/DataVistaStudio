@@ -84,5 +84,8 @@
 
 **[الموقع](https://datavista.studio/) · [التواصل](https://datavista.studio/contact)**
 
+
+**التوثيق والسياسات:** [سياسة نشر أعمال DataVista](docs/PUBLISHING_POLICY.md) · [الإبلاغ الأمني](SECURITY.md)
+
 ---
 <sub>الصور للتعريف البصري فقط ولا تعني إطلاق المشروع أو إتاحة شيفرته أو محتواه المحمي.</sub>
