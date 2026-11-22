@@ -85,6 +85,8 @@
 **[الموقع](https://datavista.studio/) · [التواصل](https://datavista.studio/contact)**
 
 
+**التعاون:** [مجالات العمل والشراكات](docs/COLLABORATION.ar.md) · [تصحيح المعلومات العامة](CONTRIBUTING.md)
+
 **التوثيق والسياسات:** [سياسة نشر أعمال DataVista](docs/PUBLISHING_POLICY.md) · [الإبلاغ الأمني](SECURITY.md)
 
 ---
