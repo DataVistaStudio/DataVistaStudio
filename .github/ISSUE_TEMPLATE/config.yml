@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contact DataVista Studio
+    url: https://datavista.studio/contact
+    about: For business collaboration or questions outside public portfolio corrections.
+  - name: Confidential security reporting
+    url: https://github.com/DataVistaStudio/DataVistaStudio/blob/main/SECURITY.md
+    about: Do not file security vulnerabilities or confidential details as public issues.
