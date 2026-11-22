@@ -8,7 +8,7 @@
 
 معرض أعمال يشمل المنتجات الفعلية والمشاريع الجديدة والمعاينات الواضحة، بعيدًا عن الصور والصفحات القديمة.
 
-[**كل المشاريع الـ16**](portfolio/README.ar.md) · [**English**](README.md) · [**المراصد الـ11**](https://datavista.studio/#home-observatories) · [**المؤسس**](https://github.com/arslanhq) · [**تواصل معنا**](https://datavista.studio/contact)
+[**كل المشاريع الـ16**](portfolio/README.ar.md) · [**English**](README.md) · [**المراصد الـ11**](portfolio/observatories.md) · [**المؤسس**](https://github.com/arslanhq) · [**تواصل معنا**](https://datavista.studio/contact)
 
 </div>
 
