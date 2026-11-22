@@ -8,7 +8,7 @@
 
 A portfolio of real products, active platforms and clearly labelled previews — beyond the older corporate website.
 
-[**All 16 projects**](portfolio/README.md) · [**العربية**](README.ar.md) · [**Founder**](https://github.com/arslanhq) · [**Contact**](https://datavista.studio/contact)
+[**All 16 projects**](portfolio/README.md) · [**العربية**](README.ar.md) · [**Founder**](https://github.com/arslanhq) · [**Observatories (11)**](https://datavista.studio/#home-observatories) · [**Contact**](https://datavista.studio/contact)
 
 </div>
 
@@ -19,13 +19,13 @@ A portfolio of real products, active platforms and clearly labelled previews —
 <table><tbody>
 <tr>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/newsroom/"><img src="media/cards/newsroom.svg" alt="NEWSROOM project illustration" width="600" /></a>
+<a href="https://datavista.studio/newsroom/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/newsroom.jpg" alt="NEWSROOM project illustration" width="600" /></a>
 <p><strong>NEWSROOM</strong> · Public<br/>
 Live news and source monitoring.<br/>
 <a href="https://datavista.studio/newsroom/">Project link</a></p>
 </td>
 <td align="left" valign="top" width="50%">
-<a href="https://market.961.menu/"><img src="media/cards/market-961-menu.svg" alt="Market.961.MENU project illustration" width="600" /></a>
+<a href="https://market.961.menu/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/market-961-menu.jpg" alt="Market.961.MENU project illustration" width="600" /></a>
 <p><strong>Market.961.MENU</strong> · Coming soon<br/>
 Lebanon marketplace — preparing for launch.<br/>
 <a href="https://market.961.menu/">Project link</a></p>
@@ -40,13 +40,13 @@ Lebanon marketplace — preparing for launch.<br/>
 <table><tbody>
 <tr>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/people_report/"><img src="media/cards/people-report.svg" alt="PEOPLE REPORT project illustration" width="600" /></a>
+<a href="https://datavista.studio/people_report/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/people-report.jpg" alt="PEOPLE REPORT project illustration" width="600" /></a>
 <p><strong>PEOPLE REPORT</strong> · Public directory<br/>
 Verified guest research and interview preparation.<br/>
 <a href="https://datavista.studio/people_report/">Project link</a></p>
 </td>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/experts2/join.php?lang=ar"><img src="media/cards/experts2.svg" alt="EXPERTS2 project illustration" width="600" /></a>
+<a href="https://datavista.studio/experts2/join.php?lang=ar"><img src="https://datavista.studio/assets/portfolio-20261122/cards/experts2.jpg" alt="EXPERTS2 project illustration" width="600" /></a>
 <p><strong>EXPERTS2</strong> · Public application<br/>
 Guest applications and expertise matching.<br/>
 <a href="https://datavista.studio/experts2/join.php?lang=ar">Project link</a></p>
@@ -54,13 +54,13 @@ Guest applications and expertise matching.<br/>
 </tr>
 <tr>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/academy/"><img src="media/cards/satr-academy.svg" alt="SATR ACADEMY project illustration" width="600" /></a>
+<a href="https://datavista.studio/academy/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/satr-academy.jpg" alt="SATR ACADEMY project illustration" width="600" /></a>
 <p><strong>SATR ACADEMY</strong> · Public catalogue<br/>
 Courses, instructors and education workflows.<br/>
 <a href="https://datavista.studio/academy/">Project link</a></p>
 </td>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/ebook/"><img src="media/cards/ebook.svg" alt="EBOOK LIBRARY project illustration" width="600" /></a>
+<a href="https://datavista.studio/ebook/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/ebook.jpg" alt="EBOOK LIBRARY project illustration" width="600" /></a>
 <p><strong>EBOOK LIBRARY</strong> · Public catalogue<br/>
 Source-linked Arabic books and authors.<br/>
 <a href="https://datavista.studio/ebook/">Project link</a></p>
@@ -72,7 +72,7 @@ Source-linked Arabic books and authors.<br/>
 
 Other work includes [CR Multiview](https://datavista.studio/cr/), [DataVista Stock](https://datavista.studio/stock/), [961.menu](https://961.menu/), [Al Mayadeen Talk](https://meet.almayadeen.online/), [Observatories](https://datavista.studio/observatories/), [FlashNews](https://datavista.studio/flashnews/), [Economy Desk](https://datavista.studio/economy-desk/), [News Map](https://datavista.studio/newsmap/), [Aparat](https://datavista.studio/aparat/) and [JobVista](https://datavista.studio/jobvista/).
 
-**[Explore all 16 projects as matching visual cards →](portfolio/README.md)**
+**[Explore all 16 projects and their artwork →](portfolio/README.md)**
 
 ## About the portfolio
 
