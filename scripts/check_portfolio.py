@@ -7,6 +7,7 @@ from pathlib import Path
 from urllib.parse import unquote, urlsplit
 import re
 import sys
+import os
 
 ROOT = Path(__file__).resolve().parents[1]
 PROJECT_GALLERIES = [
@@ -90,6 +91,15 @@ def check_local_links(doc):
 
 
 def main():
+    # Protect against accidentally running this workflow against another account/repository.
+    for var, expected in (
+        ("GITHUB_REPOSITORY", "DataVistaStudio/DataVistaStudio"),
+        ("GITHUB_REPOSITORY_ID", "1467093337"),
+        ("GITHUB_REPOSITORY_OWNER_ID", "253784265"),
+    ):
+        actual = os.environ.get(var)
+        if actual and actual != expected:
+            errors.append(f"wrong GitHub target: {var}={actual}, expected {expected}")
     for doc in sorted(ROOT.rglob("*.md")):
         check_local_links(doc)
     for doc in PROJECT_GALLERIES:
