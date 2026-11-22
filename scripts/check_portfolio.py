@@ -8,6 +8,8 @@ from urllib.parse import unquote, urlsplit
 import re
 import sys
 import os
+import hashlib
+import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 PROJECT_GALLERIES = [
@@ -90,6 +92,40 @@ def check_local_links(doc):
         errors.append(f"{rel}: outdated public marketplace name")
 
 
+
+def check_vector_artwork():
+    """Validate the six finished project-specific SVGs using only Python stdlib."""
+    fingerprints = set()
+    for slug in sorted(EXPECTED_SVGS):
+        path = ROOT / "media" / "cards" / (slug + ".svg")
+        if not path.is_file():
+            errors.append(f"missing art: {path.relative_to(ROOT)}")
+            continue
+        blob = path.read_bytes()
+        if len(blob) < 3500:
+            errors.append(f"artwork too small: {slug}")
+        fingerprints.add(hashlib.sha256(blob).hexdigest())
+        try:
+            svg = ET.fromstring(blob)
+        except ET.ParseError as err:
+            errors.append(f"invalid SVG XML: {slug}: {err}")
+            continue
+        ns = "{http://www.w3.org/2000/svg}"
+        if svg.tag != ns + "svg" or svg.get("viewBox") != "0 0 1440 810":
+            errors.append(f"artwork does not use canonical 16:9 canvas: {slug}")
+        if svg.get("role") != "img" or not svg.get("aria-labelledby"):
+            errors.append(f"missing SVG accessibility semantics: {slug}")
+        title = svg.find(ns + "title")
+        desc = svg.find(ns + "desc")
+        if title is None or desc is None or not (title.text or "").strip() or not (desc.text or "").strip():
+            errors.append(f"missing SVG title / description: {slug}")
+        if any(node.tag in (ns + "script", ns + "foreignObject") for node in svg.iter()):
+            errors.append(f"forbidden SVG executable/embedded content: {slug}")
+        if len([node for node in svg.iter() if node.tag in (ns + "path", ns + "rect", ns + "circle")]) < 10:
+            errors.append(f"insufficient project-specific vector composition: {slug}")
+    if len(fingerprints) != len(EXPECTED_SVGS):
+        errors.append("vector artwork duplicates detected")
+
 def main():
     # Protect against accidentally running this workflow against another account/repository.
     for var, expected in (
@@ -107,6 +143,7 @@ def main():
         if "Market.961.MENU" not in doc.read_text(encoding="utf-8"):
             errors.append(f"{doc.relative_to(ROOT)}: current market name missing")
     check_images(OBSERVATORIES, 0, 0, 11)
+    check_vector_artwork()
     for path in [ROOT / "README.md", ROOT / "README.ar.md"]:
         check_images(path, 6, 0)
     if errors:
@@ -114,7 +151,7 @@ def main():
         for err in errors:
             print("-", err)
         return 1
-    print("PORTFOLIO_PASS | 16 projects (10 art JPG + 6 local SVG) | 11 observatories | local links valid")
+    print("PORTFOLIO_PASS | 16 distinct project artworks (10 JPG + 6 accessible SVG) | 11 observatories | local links valid")
     return 0
 
 
