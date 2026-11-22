@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 810" width="1440" height="810" role="img" aria-label="FLASHNEWS — Fast-moving source monitoring.">
+<title>FLASHNEWS</title><desc>Fast-moving source monitoring. — editorial vector portfolio artwork by DataVista Studio, not a screenshot</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091C28"/><stop offset=".55" stop-color="#102C3A"/><stop offset="1" stop-color="#123A41"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#E0A77F" stop-opacity=".16"/><stop offset="1" stop-color="#E0A77F" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.4" fill="#ECDEC4" opacity=".20"/></pattern>
+</defs>
+<rect width="1440" height="810" fill="url(#bg)"/>
+<rect x="760" y="0" width="680" height="810" fill="url(#dots)" opacity=".32"/>
+<circle cx="1080" cy="412" r="375" fill="url(#halo)"/>
+<circle cx="1080" cy="412" r="286" fill="none" stroke="#E0A77F" stroke-opacity=".25" stroke-width="2"/>
+<circle cx="1080" cy="412" r="222" fill="#102B34" fill-opacity=".48" stroke="#E0A77F" stroke-opacity=".75" stroke-width="3"/>
+<circle cx="1080" cy="412" r="308" fill="none" stroke="#E0A77F" stroke-opacity=".12" stroke-width="1" stroke-dasharray="4 19"/>
+<path d="M786 715 C905 632 978 661 1106 580 C1209 509 1312 520 1454 426" fill="none" stroke="#F5E8D3" stroke-opacity=".22" stroke-width="2"/>
+<path d="M795 728 C928 644 992 673 1121 598 C1228 534 1336 541 1454 457" fill="none" stroke="#E8CF9F" stroke-opacity=".12" stroke-width="2"/>
+<rect x="18" y="18" width="1404" height="774" rx="24" fill="none" stroke="#D9B788" stroke-opacity=".32" stroke-width="2"/>
+<rect x="73" y="86" width="12" height="12" rx="2" fill="#E0A77F"/><text x="106" y="98" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="650" letter-spacing="5" fill="#F3EFE7">DATAVISTA <tspan fill="#E0A77F">STUDIO</tspan></text>
+<text x="1352" y="101" font-family="Inter,Arial,sans-serif" font-size="20" text-anchor="end" letter-spacing="3" fill="#D4DACE" opacity=".75">SELECTED WORK</text>
+<path d="M80 223h118" stroke="#E0A77F" stroke-width="5" stroke-linecap="round"/>
+<text x="79" y="270" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="650" letter-spacing="5" fill="#E0A77F">BREAKING NEWS</text>
+<text x="74" y="402" font-family="Inter,Arial,sans-serif" font-size="94" font-weight="800" letter-spacing="-2.4" fill="#FAF8F1">FLASHNEWS</text>
+<text x="80" y="474" font-family="Inter,Arial,sans-serif" font-size="31" font-weight="400" fill="#D3DFDC">Fast-moving source monitoring.</text>
+<path d="M80 624h545" stroke="#E4DDD1" stroke-opacity=".17" stroke-width="2"/>
+<text x="80" y="682" font-family="Inter,Arial,sans-serif" font-size="22" letter-spacing="3" fill="#F0D5B2" opacity=".88">PRODUCT / PROJECT PROFILE</text>
+<g style="color:#E0A77F" transform="translate(940 279) scale(1.05)"><g fill="none" stroke="currentColor" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"><path d="M144 28L57 143h67l-16 85 94-129h-69z"/><path d="M42 220h46M190 41h30"/></g></g>
+<circle cx="1080" cy="187" r="10" fill="#E0A77F"/><circle cx="1244" cy="567" r="7" fill="#E0A77F" opacity=".9"/>
+<text x="79" y="747" font-family="Inter,Arial,sans-serif" font-size="23" font-weight="500" letter-spacing="2" fill="#A5C1C3">DATAVISTA.STUDIO</text>
+<text x="1360" y="747" font-family="Inter,Arial,sans-serif" font-size="23" text-anchor="end" font-weight="600" letter-spacing="3" fill="#E0A77F">12 / 16</text>
+</svg>

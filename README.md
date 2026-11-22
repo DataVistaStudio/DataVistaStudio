@@ -1,71 +1,88 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/253784265?v=4" width="92" alt="DataVista Studio" />
+<img src="https://avatars.githubusercontent.com/u/253784265?v=4" width="88" alt="DataVista Studio" />
 
 # DataVista Studio
 
-**Information systems · Media technology · Digital products**
+**Media intelligence · Data platforms · Digital operations**
 
-We build working tools for media teams, researchers, businesses, educators and operators.
+A portfolio of real products, active platforms and clearly labelled previews — beyond the older corporate website.
 
-[**Explore the work**](portfolio/README.md) · [**Arabic / العربية**](README.ar.md) · [**Website**](https://datavista.studio/) · [**Founder**](https://github.com/arslanhq)
+[**All 16 projects**](portfolio/README.md) · [**العربية**](README.ar.md) · [**Founder**](https://github.com/arslanhq) · [**Contact**](https://datavista.studio/contact)
 
 </div>
 
 ---
 
-## Products, not just a website
+## Featured
 
-The original company website does not capture the full scope of recent work. This portfolio documents current products and newer engineering projects individually, including projects with private back offices and public-facing previews.
+<table><tbody>
+<tr>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/newsroom/"><img src="media/cards/newsroom.svg" alt="NEWSROOM project illustration" width="600" /></a>
+<p><strong>NEWSROOM</strong> · Public<br/>
+Live news and source monitoring.<br/>
+<a href="https://datavista.studio/newsroom/">Project link</a></p>
+</td>
+<td align="left" valign="top" width="50%">
+<a href="https://market.961.menu/"><img src="media/cards/market-961-menu.svg" alt="Market.961.MENU project illustration" width="600" /></a>
+<p><strong>Market.961.MENU</strong> · Coming soon<br/>
+Lebanon marketplace — preparing for launch.<br/>
+<a href="https://market.961.menu/">Project link</a></p>
+</td>
+</tr>
+</tbody></table>
 
-| Area | Actual work | Access |
-| --- | --- | --- |
-| **Media monitoring** | [DataVista Newsroom](https://datavista.studio/newsroom/), [Observatories](https://datavista.studio/observatories/), [FlashNews](https://datavista.studio/flashnews/) | Public interfaces |
-| **Media guest discovery** | [People Report](https://datavista.studio/people_report/) and [Experts2 / guest applications](https://datavista.studio/experts2/join.php?lang=ar) | Public directory and application; editorial operations private |
-| **Broadcast operations** | [CR Multiview](https://datavista.studio/cr/) and [Al Mayadeen Talk](https://meet.almayadeen.online/) | Operator / authenticated access |
-| **Learning and publishing** | [SATR Academy](https://datavista.studio/academy/), [DataVista EBOOK](https://datavista.studio/ebook/) | Public catalogues; some workflows require access |
-| **Commerce** | [961.menu](https://961.menu/), [DataVista Marketplace](https://datavista.studio/marketplace/) | Live service / separate public marketplace preview |
-| **Market and data tools** | [DataVista Stock](https://datavista.studio/stock/), [Economy Desk](https://datavista.studio/economy-desk/), [News Map](https://datavista.studio/newsmap/) | Public information / preview tools |
-| **Other current work** | [Aparat language bridge](https://datavista.studio/aparat/), [JobVista](https://datavista.studio/jobvista/) | Public interfaces; maturity varies |
+**NEWSROOM** brings source-based, continuous news monitoring into one editorial workspace. **Market.961.MENU** is our Lebanese classifieds marketplace project; its public site currently says *under preparation*, so we do not claim it is launched.
 
-**[Browse the detailed project directory →](portfolio/README.md)** · **[Real interface walkthrough →](portfolio/visual-tour.md)**
+## More from DataVista
 
-## Inside current interfaces
+<table><tbody>
+<tr>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/people_report/"><img src="media/cards/people-report.svg" alt="PEOPLE REPORT project illustration" width="600" /></a>
+<p><strong>PEOPLE REPORT</strong> · Public directory<br/>
+Verified guest research and interview preparation.<br/>
+<a href="https://datavista.studio/people_report/">Project link</a></p>
+</td>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/experts2/join.php?lang=ar"><img src="media/cards/experts2.svg" alt="EXPERTS2 project illustration" width="600" /></a>
+<p><strong>EXPERTS2</strong> · Public application<br/>
+Guest applications and expertise matching.<br/>
+<a href="https://datavista.studio/experts2/join.php?lang=ar">Project link</a></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/academy/"><img src="media/cards/satr-academy.svg" alt="SATR ACADEMY project illustration" width="600" /></a>
+<p><strong>SATR ACADEMY</strong> · Public catalogue<br/>
+Courses, instructors and education workflows.<br/>
+<a href="https://datavista.studio/academy/">Project link</a></p>
+</td>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/ebook/"><img src="media/cards/ebook.svg" alt="EBOOK LIBRARY project illustration" width="600" /></a>
+<p><strong>EBOOK LIBRARY</strong> · Public catalogue<br/>
+Source-linked Arabic books and authors.<br/>
+<a href="https://datavista.studio/ebook/">Project link</a></p>
+</td>
+</tr>
+</tbody></table>
 
-The images below are **real screenshots of publicly accessible DataVista pages captured on 22 November 2026**. They illustrate specific product screens rather than generic stock artwork.
+### Beyond the highlights
 
-<a href="portfolio/visual-tour.md#1-people-report--guest-research">
-  <img src="media/people-report-public-directory-20261122.png" width="760" alt="Actual DataVista People Report public guest directory: research search bar and profile discovery interface" />
-</a>
+Other work includes [CR Multiview](https://datavista.studio/cr/), [DataVista Stock](https://datavista.studio/stock/), [961.menu](https://961.menu/), [Al Mayadeen Talk](https://meet.almayadeen.online/), [Observatories](https://datavista.studio/observatories/), [FlashNews](https://datavista.studio/flashnews/), [Economy Desk](https://datavista.studio/economy-desk/), [News Map](https://datavista.studio/newsmap/), [Aparat](https://datavista.studio/aparat/) and [JobVista](https://datavista.studio/jobvista/).
 
-*People Report: find public guest profiles and review published professional information.*
+**[Explore all 16 projects as matching visual cards →](portfolio/README.md)**
 
-<a href="portfolio/visual-tour.md#3-satr-academy--course-discovery">
-  <img src="media/satr-academy-course-catalog-20261122.png" width="760" alt="Actual SATR Academy course catalogue showing search, category sorting and published course cards" />
-</a>
+## About the portfolio
 
-*SATR: course catalogue with search, filtering and instructor-linked training.*
+These are **custom editorial vector cards**, not screenshots and not simulated product UIs. Each illustration identifies a project; the actual product is accessed through its project link.
 
-[**See the guest application and marketplace preview screenshots →**](portfolio/visual-tour.md)
+We distinguish live public services, previews, restricted operator systems and concepts. No private source code, media streams, customer records or infrastructure secrets are published here.
 
-## What differentiates our work
+Founded by [**Mohammad Arslan**](https://github.com/arslanhq) in Beirut, Lebanon.
 
-**Working interfaces.** Research, input, discovery, review, monitoring and operational workflows — not just landing pages.
-
-**Arabic and English.** Products designed for the languages and formats they serve.
-
-**Source context.** Where relevant, we keep links, provenance and review status visible.
-
-**Responsible boundaries.** Public demonstrations do not expose private media streams, customer data, credentials, unreleased commercial code or production systems.
-
-## Collaboration
-
-DataVista Studio is based in Beirut, Lebanon, and founded by [**Mohammad Arslan**](https://github.com/arslanhq).
-
-We are open to conversations about media workflows, product partnerships, data applications, custom implementations and licensed deployments.
-
-**[Website](https://datavista.studio/) · [Contact](https://datavista.studio/contact)**
+**[datavista.studio](https://datavista.studio/) · [Contact](https://datavista.studio/contact)**
 
 ---
-
-<sub>Public-facing product descriptions are not open-source licenses. Product readiness and access conditions vary. Screenshots represent the public interface on the stated capture date.</sub>
+<sub>Brand artwork is illustrative. It does not promise public availability or endorse a commercial release. Protected production and private development repositories remain private.</sub>

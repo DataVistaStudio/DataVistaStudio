@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 810" width="1440" height="810" role="img" aria-label="PEOPLE REPORT — Research-ready guest profiles.">
+<title>PEOPLE REPORT</title><desc>Research-ready guest profiles. — editorial vector portfolio artwork by DataVista Studio, not a screenshot</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091C28"/><stop offset=".55" stop-color="#102C3A"/><stop offset="1" stop-color="#123A41"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#94C4B7" stop-opacity=".16"/><stop offset="1" stop-color="#94C4B7" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.4" fill="#ECDEC4" opacity=".20"/></pattern>
+</defs>
+<rect width="1440" height="810" fill="url(#bg)"/>
+<rect x="760" y="0" width="680" height="810" fill="url(#dots)" opacity=".32"/>
+<circle cx="1080" cy="412" r="375" fill="url(#halo)"/>
+<circle cx="1080" cy="412" r="286" fill="none" stroke="#94C4B7" stroke-opacity=".25" stroke-width="2"/>
+<circle cx="1080" cy="412" r="222" fill="#102B34" fill-opacity=".48" stroke="#94C4B7" stroke-opacity=".75" stroke-width="3"/>
+<circle cx="1080" cy="412" r="308" fill="none" stroke="#94C4B7" stroke-opacity=".12" stroke-width="1" stroke-dasharray="4 19"/>
+<path d="M786 715 C905 632 978 661 1106 580 C1209 509 1312 520 1454 426" fill="none" stroke="#F5E8D3" stroke-opacity=".22" stroke-width="2"/>
+<path d="M795 728 C928 644 992 673 1121 598 C1228 534 1336 541 1454 457" fill="none" stroke="#E8CF9F" stroke-opacity=".12" stroke-width="2"/>
+<rect x="18" y="18" width="1404" height="774" rx="24" fill="none" stroke="#D9B788" stroke-opacity=".32" stroke-width="2"/>
+<rect x="73" y="86" width="12" height="12" rx="2" fill="#94C4B7"/><text x="106" y="98" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="650" letter-spacing="5" fill="#F3EFE7">DATAVISTA <tspan fill="#94C4B7">STUDIO</tspan></text>
+<text x="1352" y="101" font-family="Inter,Arial,sans-serif" font-size="20" text-anchor="end" letter-spacing="3" fill="#D4DACE" opacity=".75">SELECTED WORK</text>
+<path d="M80 223h118" stroke="#94C4B7" stroke-width="5" stroke-linecap="round"/>
+<text x="79" y="270" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="650" letter-spacing="5" fill="#94C4B7">MEDIA RESEARCH</text>
+<text x="74" y="402" font-family="Inter,Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-2.4" fill="#FAF8F1">PEOPLE REPORT</text>
+<text x="80" y="474" font-family="Inter,Arial,sans-serif" font-size="31" font-weight="400" fill="#D3DFDC">Research-ready guest profiles.</text>
+<path d="M80 624h545" stroke="#E4DDD1" stroke-opacity=".17" stroke-width="2"/>
+<text x="80" y="682" font-family="Inter,Arial,sans-serif" font-size="22" letter-spacing="3" fill="#F0D5B2" opacity=".88">PRODUCT / PROJECT PROFILE</text>
+<g style="color:#94C4B7" transform="translate(940 279) scale(1.05)"><g fill="none" stroke="currentColor" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"><rect x="36" y="42" width="184" height="171" rx="15"/><circle cx="99" cy="112" r="29"/><path d="M60 179c5-32 73-32 79 0M160 94h37M160 124h37M160 154h29"/></g></g>
+<circle cx="1080" cy="187" r="10" fill="#94C4B7"/><circle cx="1244" cy="567" r="7" fill="#94C4B7" opacity=".9"/>
+<text x="79" y="747" font-family="Inter,Arial,sans-serif" font-size="23" font-weight="500" letter-spacing="2" fill="#A5C1C3">DATAVISTA.STUDIO</text>
+<text x="1360" y="747" font-family="Inter,Arial,sans-serif" font-size="23" text-anchor="end" font-weight="600" letter-spacing="3" fill="#94C4B7">03 / 16</text>
+</svg>

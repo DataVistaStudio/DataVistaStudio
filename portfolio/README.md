@@ -1,52 +1,128 @@
-# DataVista Studio — Project directory
+# DataVista Studio — Projects
 
-[← Company profile](../README.md) · [العربية](README.ar.md) · [Real interface tour](visual-tour.md)
+[← Main profile](../README.md) · [العربية](README.ar.md) · [Visual card gallery](visual-tour.md)
 
-This directory tracks **actual products and newer work beyond the older corporate site**. Links point to the product itself or to its public presentation; internal operations, source repositories and customer data stay private.
+**16 current products and selected projects**, presented as a consistent set of editorial vector cards. These are not screenshots of existing interfaces.
 
-**Access labels:** **Public** = usable public-facing interface; **Preview** = public design / information preview, not a full product launch; **Restricted** = operator or authenticated functions; **Research** = public experiment whose readiness has not been established by this directory.
+<table><tbody>
+<tr>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/newsroom/"><img src="../media/cards/newsroom.svg" alt="NEWSROOM project illustration" width="600" /></a>
+<p><strong>NEWSROOM</strong> · Public<br/>
+Live news and source monitoring.<br/>
+<a href="https://datavista.studio/newsroom/">Project link</a></p>
+</td>
+<td align="left" valign="top" width="50%">
+<a href="https://market.961.menu/"><img src="../media/cards/market-961-menu.svg" alt="Market.961.MENU project illustration" width="600" /></a>
+<p><strong>Market.961.MENU</strong> · Coming soon<br/>
+Lebanon marketplace — preparing for launch.<br/>
+<a href="https://market.961.menu/">Project link</a></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/people_report/"><img src="../media/cards/people-report.svg" alt="PEOPLE REPORT project illustration" width="600" /></a>
+<p><strong>PEOPLE REPORT</strong> · Public directory<br/>
+Verified guest research and interview preparation.<br/>
+<a href="https://datavista.studio/people_report/">Project link</a></p>
+</td>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/experts2/join.php?lang=ar"><img src="../media/cards/experts2.svg" alt="EXPERTS2 project illustration" width="600" /></a>
+<p><strong>EXPERTS2</strong> · Public application<br/>
+Guest applications and expertise matching.<br/>
+<a href="https://datavista.studio/experts2/join.php?lang=ar">Project link</a></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/cr/"><img src="../media/cards/cr-multiview.svg" alt="CR MULTIVIEW project illustration" width="600" /></a>
+<p><strong>CR MULTIVIEW</strong> · Restricted<br/>
+Broadcast multiview and controlled recording.<br/>
+<a href="https://datavista.studio/cr/">Project link</a></p>
+</td>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/academy/"><img src="../media/cards/satr-academy.svg" alt="SATR ACADEMY project illustration" width="600" /></a>
+<p><strong>SATR ACADEMY</strong> · Public catalogue<br/>
+Courses, instructors and education workflows.<br/>
+<a href="https://datavista.studio/academy/">Project link</a></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/ebook/"><img src="../media/cards/ebook.svg" alt="EBOOK LIBRARY project illustration" width="600" /></a>
+<p><strong>EBOOK LIBRARY</strong> · Public catalogue<br/>
+Source-linked Arabic books and authors.<br/>
+<a href="https://datavista.studio/ebook/">Project link</a></p>
+</td>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/stock/"><img src="../media/cards/stock.svg" alt="DATAVISTA STOCK project illustration" width="600" /></a>
+<p><strong>DATAVISTA STOCK</strong> · Preview<br/>
+Asset discovery and market information.<br/>
+<a href="https://datavista.studio/stock/">Project link</a></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" width="50%">
+<a href="https://961.menu/"><img src="../media/cards/961-menu.svg" alt="961.MENU project illustration" width="600" /></a>
+<p><strong>961.MENU</strong> · Live service<br/>
+Digital merchant pages, menus and orders.<br/>
+<a href="https://961.menu/">Project link</a></p>
+</td>
+<td align="left" valign="top" width="50%">
+<a href="https://meet.almayadeen.online/"><img src="../media/cards/talk.svg" alt="AL MAYADEEN TALK project illustration" width="600" /></a>
+<p><strong>AL MAYADEEN TALK</strong> · Restricted<br/>
+Interviews and live media production workflows.<br/>
+<a href="https://meet.almayadeen.online/">Project link</a></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/observatories/"><img src="../media/cards/observatories.svg" alt="OBSERVATORIES project illustration" width="600" /></a>
+<p><strong>OBSERVATORIES</strong> · Public<br/>
+Regional media and news-source monitoring.<br/>
+<a href="https://datavista.studio/observatories/">Project link</a></p>
+</td>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/flashnews/"><img src="../media/cards/flashnews.svg" alt="FLASHNEWS project illustration" width="600" /></a>
+<p><strong>FLASHNEWS</strong> · Public<br/>
+Rapid breaking-news monitoring.<br/>
+<a href="https://datavista.studio/flashnews/">Project link</a></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/economy-desk/"><img src="../media/cards/economy-desk.svg" alt="ECONOMY DESK project illustration" width="600" /></a>
+<p><strong>ECONOMY DESK</strong> · Public<br/>
+Economic information and research context.<br/>
+<a href="https://datavista.studio/economy-desk/">Project link</a></p>
+</td>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/newsmap/"><img src="../media/cards/news-map.svg" alt="NEWS MAP project illustration" width="600" /></a>
+<p><strong>NEWS MAP</strong> · Public<br/>
+Explore news geographically.<br/>
+<a href="https://datavista.studio/newsmap/">Project link</a></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/aparat/"><img src="../media/cards/aparat.svg" alt="APARAT project illustration" width="600" /></a>
+<p><strong>APARAT</strong> · Public interface<br/>
+Persian-to-Arabic translated media workflows.<br/>
+<a href="https://datavista.studio/aparat/">Project link</a></p>
+</td>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/jobvista/"><img src="../media/cards/jobvista.svg" alt="JOBVISTA project illustration" width="600" /></a>
+<p><strong>JOBVISTA</strong> · Concept<br/>
+Jobs and specialists discovery concept.<br/>
+<a href="https://datavista.studio/jobvista/">Project link</a></p>
+</td>
+</tr>
+</tbody></table>
 
-## Media information and research
+## Access and publishing policy
 
-| Project | What you can see or do | Access |
-| --- | --- | --- |
-| [Newsroom](https://datavista.studio/newsroom/) | Follow incoming stories, sources, timestamps and topic filters. | Public |
-| [Observatories](https://datavista.studio/observatories/) | Enter regional news/source observatories. | Public |
-| [FlashNews](https://datavista.studio/flashnews/) | A separate fast-news monitoring interface. | Public |
-| [Economy Desk](https://datavista.studio/economy-desk/) | Economic information and research-oriented interface. | Public |
-| [News Map](https://datavista.studio/newsmap/) | News information presented through a map interface. | Public |
+**Public** is a public-facing site; **Restricted** requires authorized access; **Preview** and **Coming soon** do not imply commercial launch; **Concept** is exploratory.
 
-## Experts, guests and media production
+Market.961.MENU has replaced the old “DataVista Marketplace” portfolio name. We use [https://market.961.menu/](https://market.961.menu/) as its current public address. The restricted project source and staging environment are separate and unchanged.
 
-| Project | The actual workflow | Access |
-| --- | --- | --- |
-| [People Report / DataVista Guests](https://datavista.studio/people_report/) | Browse and search public professional guest profiles; prepare interviews using reviewed information and sources. | Public directory; private research workflows |
-| [Experts2 guest network](https://datavista.studio/experts2/join.php?lang=ar) | Apply to participate as an interview guest; provide fields for expertise, language and media format, with review before publication. | Public applications; restricted review |
-| [CR Multiview](https://datavista.studio/cr/) | Operator-focused multi-source monitoring and controlled recording workflows. | Restricted |
-| [Al Mayadeen Talk](https://meet.almayadeen.online/) | Interview and production-room workflow built for media use. | Restricted |
-| [Aparat](https://datavista.studio/aparat/) | Persian-origin audiovisual material presented with Arabic translation workflows. | Public-facing interface |
-
-## Learning, books and commerce
-
-| Project | The actual workflow | Access |
-| --- | --- | --- |
-| [SATR Academy](https://datavista.studio/academy/) | Course catalogue, instructor pages and learning-management workflows. | Public catalogue; gated user workflows |
-| [DataVista EBOOK](https://datavista.studio/ebook/) | Search Arabic book and author records with source references. | Public |
-| [961.menu](https://961.menu/) | Merchant-facing digital menu and commerce operations. | Live public service; administration gated |
-| [DataVista Marketplace](https://datavista.studio/marketplace/) | Public category and concept preview for a Lebanese classifieds marketplace. | Preview; not a public seller launch |
-| [DataVista Stock](https://datavista.studio/stock/) | Overview of stock/crypto research and discovery product direction. **Not live trading or verified live prices.** | Public informational preview |
-
-## Further experiments
-
-[JobVista](https://datavista.studio/jobvista/) is a public-facing specialists/jobs concept. Its presence here does not certify commercial launch or completion.
-
-## See the interfaces
-
-Our [visual tour](visual-tour.md) contains **screenshots captured from actual public pages**, with captions that explain what each screen demonstrates. Private operator and administrative screens are deliberately excluded.
-
-## Product and publication policy
-
-- We do **not** publish private code or operations documents to make a portfolio more visually impressive.
-- Preview and restricted-access labels must stay accurate; documentation is not production-acceptance evidence.
-- We update case studies when real features are independently visible or approved for publication.
-- Screenshots and descriptions are for presentation; third-party media/data may have separate rights.
+Product links are not open-source licenses. We do not share sensitive operational screenshots, customer records, private source code or licensed third-party media in the portfolio.

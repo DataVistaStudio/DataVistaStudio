@@ -1,68 +1,88 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/253784265?v=4" width="92" alt="DataVista Studio" />
+<img src="https://avatars.githubusercontent.com/u/253784265?v=4" width="88" alt="DataVista Studio" />
 
 # DataVista Studio | داتافيستا
 
-**أنظمة معلومات · تقنيات إعلامية · منتجات رقمية**
+**الرصد الإعلامي · منصات البيانات · العمليات الرقمية**
 
-نطوّر أدوات تعمل فعليًا لفرق الإعلام والباحثين والمؤسسات والمدرّسين والمشغّلين.
+معرض أعمال يشمل المنتجات الفعلية والمشاريع الجديدة والمعاينات الواضحة، بعيدًا عن الصور والصفحات القديمة.
 
-[**استعرض المشاريع**](portfolio/README.ar.md) · [**English**](README.md) · [**الموقع**](https://datavista.studio/) · [**المؤسس**](https://github.com/arslanhq)
+[**كل المشاريع الـ16**](portfolio/README.ar.md) · [**English**](README.md) · [**المؤسس**](https://github.com/arslanhq) · [**تواصل معنا**](https://datavista.studio/contact)
 
 </div>
 
 ---
 
-## أعمالنا أكبر من الموقع التعريفي
+## مشاريع بارزة
 
-الموقع القديم لا يعرض كامل المشاريع الجديدة. هنا نُظهر المنتجات والمنصات الفعلية، مع توضيح ما هو منشور للعموم، وما لا يزال معاينة عامة، وما يحتاج إلى صلاحية دخول.
+<table><tbody>
+<tr>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/newsroom/"><img src="media/cards/newsroom.svg" alt="NEWSROOM project illustration" width="600" /></a>
+<p><strong>NEWSROOM</strong> · عام<br/>
+الأخبار العاجلة والمصادر والأرشيف.<br/>
+<a href="https://datavista.studio/newsroom/">رابط المشروع</a></p>
+</td>
+<td align="left" valign="top" width="50%">
+<a href="https://market.961.menu/"><img src="media/cards/market-961-menu.svg" alt="Market.961.MENU project illustration" width="600" /></a>
+<p><strong>Market.961.MENU</strong> · قيد التجهيز<br/>
+سوق إعلانات لبناني — قيد التجهيز.<br/>
+<a href="https://market.961.menu/">رابط المشروع</a></p>
+</td>
+</tr>
+</tbody></table>
 
-| المجال | المشاريع | طبيعة الوصول |
-| --- | --- | --- |
-| **الرصد والأخبار** | [Newsroom](https://datavista.studio/newsroom/) · [Observatories](https://datavista.studio/observatories/) · [FlashNews](https://datavista.studio/flashnews/) | واجهات عامة |
-| **الضيوف والخبراء** | [People Report](https://datavista.studio/people_report/) · [الانضمام إلى Experts2](https://datavista.studio/experts2/join.php?lang=ar) | دليل وطلب انضمام عامان؛ الإدارة خاصة |
-| **عمليات البث** | [CR Multiview](https://datavista.studio/cr/) · [Al Mayadeen Talk](https://meet.almayadeen.online/) | دخول للمشغلين |
-| **التعليم والكتب** | [SATR Academy](https://datavista.studio/academy/) · [EBOOK](https://datavista.studio/ebook/) | كتالوجات عامة وعمليات محمية |
-| **التجارة والمنصات** | [961.menu](https://961.menu/) · [DataVista Marketplace](https://datavista.studio/marketplace/) | خدمة ومنفذ معاينة للسوق |
-| **الاقتصاد والبيانات** | [Stock](https://datavista.studio/stock/) · [Economy Desk](https://datavista.studio/economy-desk/) · [News Map](https://datavista.studio/newsmap/) | معلومات ومعاينات |
-| **أعمال إضافية** | [Aparat](https://datavista.studio/aparat/) · [JobVista](https://datavista.studio/jobvista/) | واجهات عامة بمراحل مختلفة |
+**NEWSROOM** يجمع مراقبة الأخبار والمصادر ضمن مساحة عمل تحريرية متجددة. **Market.961.MENU** مشروع سوق الإعلانات في لبنان، وموقعه العام ما زال يعرض حالة «قيد التجهيز»، لذلك لا نقدّمه كسوق أُطلق رسميًا.
 
-**[دليل الأعمال المفصّل ←](portfolio/README.ar.md)** · **[جولة مرئية في الواجهات الحقيقية ←](portfolio/visual-tour.md)**
+## مشاريع أخرى
 
-## صور من العمل الحقيقي
+<table><tbody>
+<tr>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/people_report/"><img src="media/cards/people-report.svg" alt="PEOPLE REPORT project illustration" width="600" /></a>
+<p><strong>PEOPLE REPORT</strong> · دليل عام<br/>
+البحث عن الضيوف والتحضير المهني للمقابلات.<br/>
+<a href="https://datavista.studio/people_report/">رابط المشروع</a></p>
+</td>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/experts2/join.php?lang=ar"><img src="media/cards/experts2.svg" alt="EXPERTS2 project illustration" width="600" /></a>
+<p><strong>EXPERTS2</strong> · تقديم عام<br/>
+طلبات الانضمام وتصنيف الخبرات والظهور الإعلامي.<br/>
+<a href="https://datavista.studio/experts2/join.php?lang=ar">رابط المشروع</a></p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/academy/"><img src="media/cards/satr-academy.svg" alt="SATR ACADEMY project illustration" width="600" /></a>
+<p><strong>SATR ACADEMY</strong> · كتالوج عام<br/>
+الدورات والمدربون ومسارات التعلم.<br/>
+<a href="https://datavista.studio/academy/">رابط المشروع</a></p>
+</td>
+<td align="left" valign="top" width="50%">
+<a href="https://datavista.studio/ebook/"><img src="media/cards/ebook.svg" alt="EBOOK LIBRARY project illustration" width="600" /></a>
+<p><strong>EBOOK LIBRARY</strong> · مكتبة عامة<br/>
+كتب ومؤلفون عرب وسجلات مرتبطة بالمصادر.<br/>
+<a href="https://datavista.studio/ebook/">رابط المشروع</a></p>
+</td>
+</tr>
+</tbody></table>
 
-هذه **لقطات فعلية من واجهات عامة** بتاريخ 22 نوفمبر 2026، وليست صورًا مولّدة أو صورًا تزيينية.
+### أعمال إضافية
 
-<a href="portfolio/visual-tour.md#1-people-report--guest-research">
-  <img src="media/people-report-public-directory-20261122.png" width="760" alt="واجهة دليل الضيوف العامة والبحث في الملفات المهنية على People Report" />
-</a>
+تضم المشاريع أيضًا [CR Multiview](https://datavista.studio/cr/)، [DataVista Stock](https://datavista.studio/stock/)، [961.menu](https://961.menu/)، [Al Mayadeen Talk](https://meet.almayadeen.online/)، [Observatories](https://datavista.studio/observatories/)، [FlashNews](https://datavista.studio/flashnews/)، [Economy Desk](https://datavista.studio/economy-desk/)، [News Map](https://datavista.studio/newsmap/)، [Aparat](https://datavista.studio/aparat/) و[JobVista](https://datavista.studio/jobvista/).
 
-*People Report: البحث عن الضيوف والخبراء واستعراض المعلومات المهنية المنشورة.*
+**[عرض جميع المشاريع الـ16 كبطاقات متناسقة ←](portfolio/README.ar.md)**
 
-<a href="portfolio/visual-tour.md#3-satr-academy--course-discovery">
-  <img src="media/satr-academy-course-catalog-20261122.png" width="760" alt="واجهة كتالوج الدورات المنشورة في SATR Academy" />
-</a>
+## عن أسلوب العرض
 
-*SATR Academy: كتالوج الدورات، البحث والتصفية وارتباط الدورات بالمدرّسين.*
+البطاقات رسومات متجهية موحدة صُممت للتعريف بكل مشروع؛ **ليست لقطات شاشة** ولا تمثل واجهات منتج حقيقية.
 
-[**لقطات إضافية لنظام انضمام الضيوف ومعاينة السوق ←**](portfolio/visual-tour.md)
+نميّز بوضوح بين الخدمات العامة والمشاريع قيد التجهيز والأنظمة المقيدة وتجارب الأفكار. تبقى الشيفرة وبيانات العملاء وأنظمة الإنتاج الخاصة محمية.
 
-## طريقة العمل
+تأسّس الاستوديو في بيروت، لبنان، على يد [**Mohammad Arslan**](https://github.com/arslanhq).
 
-- **حلول عملية:** أدوات للبحث والمراجعة والرصد وإدارة العمليات، لا صفحات ترويجية فقط.
-- **لغة مناسبة:** العربية والإنجليزية بحسب طبيعة المنتج.
-- **التحقق من البيانات:** توثيق المصادر وحالة المراجعة عندما تسمح طبيعة العمل.
-- **حماية الأصول:** لا ننشر بيانات العملاء أو محتوى التشغيل الخاص أو مفاتيح الأنظمة أو الشيفرة التجارية.
-
-## تواصل وتعاون
-
-تأسّس DataVista Studio في بيروت، لبنان، على يد [**Mohammad Arslan**](https://github.com/arslanhq).
-
-للتعاون في المنتجات الإعلامية والبيانات والخدمات الرقمية والحلول الخاصة:
-
-**[الموقع الرسمي](https://datavista.studio/) · [تواصل معنا](https://datavista.studio/contact)**
+**[الموقع](https://datavista.studio/) · [التواصل](https://datavista.studio/contact)**
 
 ---
-
-<sub>عرض المنتجات للعامة لا يعني إتاحة شيفرتها أو بياناتها لإعادة الاستخدام. تختلف حالة الإطلاق والصلاحيات بين منصة وأخرى. الصور من الواجهات العامة في تاريخ الالتقاط المذكور.</sub>
+<sub>الصور للتعريف البصري فقط ولا تعني إطلاق المشروع أو إتاحة شيفرته أو محتواه المحمي.</sub>
