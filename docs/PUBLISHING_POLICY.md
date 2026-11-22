@@ -8,6 +8,15 @@
 - **Founder:** [Mohammad Arslan](https://github.com/arslanhq), the professional founder profile.
 - Keep the company and personal profiles distinct. A project must not be moved, renamed, opened, archived or deleted merely to improve appearance.
 
+## Identity safety rule — do not mix the two accounts
+
+| Role | Public account | Stable GitHub numeric user ID |
+| --- | --- | --- |
+| Company | `DataVistaStudio` | `253784265` |
+| Founder | `arslanhq` | `135918375` |
+
+**Before any write**, verify the authenticated GitHub account ID matches the intended account and that the target repository owner ID matches it. If either identity differs or the connector is ambiguous, stop instead of guessing. Do not silently rename, transfer or change repository visibility.
+
 ## What may be shown publicly
 
 - Approved product names, descriptions, public web links and launch/preview status.
