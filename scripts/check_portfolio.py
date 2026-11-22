@@ -56,7 +56,10 @@ def check_images(doc, jpg_count, svg_count, obs_count=0):
         errors.append(f"{doc.relative_to(ROOT)}: local SVG project names inconsistent")
     if obs_count == 11 and obs != EXPECTED_OBS:
         errors.append(f"{doc.relative_to(ROOT)}: observatory names inconsistent")
-    if len(image_urls) != jpg_count + svg_count + obs_count:
+    avatar_count = 1 if doc.parent == ROOT and doc.name in ("README.md", "README.ar.md") else 0
+    if avatar_count and not any(img.startswith("https://avatars.githubusercontent.com/u/253784265") for img in image_urls):
+        errors.append(f"{doc.relative_to(ROOT)}: company avatar missing")
+    if len(image_urls) != jpg_count + svg_count + obs_count + avatar_count:
         errors.append(f"{doc.relative_to(ROOT)}: unexpected extra or duplicate project images")
 
 
