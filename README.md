@@ -8,7 +8,7 @@
 
 A portfolio of real products, active platforms and clearly labelled previews — beyond the older corporate website.
 
-[**All 16 projects**](portfolio/README.md) · [**العربية**](README.ar.md) · [**Founder**](https://github.com/arslanhq) · [**Observatories (11)**](https://datavista.studio/#home-observatories) · [**Contact**](https://datavista.studio/contact)
+[**All 16 projects**](portfolio/README.md) · [**العربية**](README.ar.md) · [**Founder**](https://github.com/arslanhq) · [**Observatories (11)**](portfolio/observatories.md) · [**Contact**](https://datavista.studio/contact)
 
 </div>
 
