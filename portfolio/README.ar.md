@@ -2,18 +2,18 @@
 
 [← واجهة الشركة](../README.ar.md) · [English](README.md) · [معرض الصور](visual-tour.md)
 
-**16 مشروعًا ومنتجًا** في بطاقات رسومية متناسقة تعرّف كل مشروع بشكل مستقل، ولا تستخدم لقطات شاشة للمواقع.
+**16 مشروعًا ومنتجًا، بينها 10 بطاقات فنية معتمدة حديثًا** في بطاقات رسومية متناسقة تعرّف كل مشروع بشكل مستقل، ولا تستخدم لقطات شاشة للمواقع.
 
 <table><tbody>
 <tr>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/newsroom/"><img src="../media/cards/newsroom.svg" alt="NEWSROOM project illustration" width="600" /></a>
+<a href="https://datavista.studio/newsroom/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/newsroom.jpg" alt="NEWSROOM project illustration" width="600" /></a>
 <p><strong>NEWSROOM</strong> · عام<br/>
 الأخبار العاجلة والمصادر والأرشيف.<br/>
 <a href="https://datavista.studio/newsroom/">رابط المشروع</a></p>
 </td>
 <td align="left" valign="top" width="50%">
-<a href="https://market.961.menu/"><img src="../media/cards/market-961-menu.svg" alt="Market.961.MENU project illustration" width="600" /></a>
+<a href="https://market.961.menu/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/market-961-menu.jpg" alt="Market.961.MENU project illustration" width="600" /></a>
 <p><strong>Market.961.MENU</strong> · قيد التجهيز<br/>
 سوق إعلانات لبناني — قيد التجهيز.<br/>
 <a href="https://market.961.menu/">رابط المشروع</a></p>
@@ -21,13 +21,13 @@
 </tr>
 <tr>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/people_report/"><img src="../media/cards/people-report.svg" alt="PEOPLE REPORT project illustration" width="600" /></a>
+<a href="https://datavista.studio/people_report/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/people-report.jpg" alt="PEOPLE REPORT project illustration" width="600" /></a>
 <p><strong>PEOPLE REPORT</strong> · دليل عام<br/>
 البحث عن الضيوف والتحضير المهني للمقابلات.<br/>
 <a href="https://datavista.studio/people_report/">رابط المشروع</a></p>
 </td>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/experts2/join.php?lang=ar"><img src="../media/cards/experts2.svg" alt="EXPERTS2 project illustration" width="600" /></a>
+<a href="https://datavista.studio/experts2/join.php?lang=ar"><img src="https://datavista.studio/assets/portfolio-20261122/cards/experts2.jpg" alt="EXPERTS2 project illustration" width="600" /></a>
 <p><strong>EXPERTS2</strong> · تقديم عام<br/>
 طلبات الانضمام وتصنيف الخبرات والظهور الإعلامي.<br/>
 <a href="https://datavista.studio/experts2/join.php?lang=ar">رابط المشروع</a></p>
@@ -35,13 +35,13 @@
 </tr>
 <tr>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/cr/"><img src="../media/cards/cr-multiview.svg" alt="CR MULTIVIEW project illustration" width="600" /></a>
+<a href="https://datavista.studio/cr/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/cr-multiview.jpg" alt="CR MULTIVIEW project illustration" width="600" /></a>
 <p><strong>CR MULTIVIEW</strong> · مقيّد<br/>
 متابعة مصادر البث والتسجيل والتحكم.<br/>
 <a href="https://datavista.studio/cr/">رابط المشروع</a></p>
 </td>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/academy/"><img src="../media/cards/satr-academy.svg" alt="SATR ACADEMY project illustration" width="600" /></a>
+<a href="https://datavista.studio/academy/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/satr-academy.jpg" alt="SATR ACADEMY project illustration" width="600" /></a>
 <p><strong>SATR ACADEMY</strong> · كتالوج عام<br/>
 الدورات والمدربون ومسارات التعلم.<br/>
 <a href="https://datavista.studio/academy/">رابط المشروع</a></p>
@@ -49,13 +49,13 @@
 </tr>
 <tr>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/ebook/"><img src="../media/cards/ebook.svg" alt="EBOOK LIBRARY project illustration" width="600" /></a>
+<a href="https://datavista.studio/ebook/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/ebook.jpg" alt="EBOOK LIBRARY project illustration" width="600" /></a>
 <p><strong>EBOOK LIBRARY</strong> · مكتبة عامة<br/>
 كتب ومؤلفون عرب وسجلات مرتبطة بالمصادر.<br/>
 <a href="https://datavista.studio/ebook/">رابط المشروع</a></p>
 </td>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/stock/"><img src="../media/cards/stock.svg" alt="DATAVISTA STOCK project illustration" width="600" /></a>
+<a href="https://datavista.studio/stock/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/stock.jpg" alt="DATAVISTA STOCK project illustration" width="600" /></a>
 <p><strong>DATAVISTA STOCK</strong> · معاينة<br/>
 استكشاف الأصول والأسواق؛ ليست منصة تداول.<br/>
 <a href="https://datavista.studio/stock/">رابط المشروع</a></p>
@@ -63,13 +63,13 @@
 </tr>
 <tr>
 <td align="left" valign="top" width="50%">
-<a href="https://961.menu/"><img src="../media/cards/961-menu.svg" alt="961.MENU project illustration" width="600" /></a>
+<a href="https://961.menu/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/961-menu.jpg" alt="961.MENU project illustration" width="600" /></a>
 <p><strong>961.MENU</strong> · خدمة متاحة<br/>
 صفحات محلات وقوائم رقمية وطلبات.<br/>
 <a href="https://961.menu/">رابط المشروع</a></p>
 </td>
 <td align="left" valign="top" width="50%">
-<a href="https://meet.almayadeen.online/"><img src="../media/cards/talk.svg" alt="AL MAYADEEN TALK project illustration" width="600" /></a>
+<a href="https://meet.almayadeen.online/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/talk.jpg" alt="AL MAYADEEN TALK project illustration" width="600" /></a>
 <p><strong>AL MAYADEEN TALK</strong> · مقيّد<br/>
 غرف مقابلات وأدوات إنتاج إعلامي.<br/>
 <a href="https://meet.almayadeen.online/">رابط المشروع</a></p>
