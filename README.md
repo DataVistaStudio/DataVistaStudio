@@ -84,5 +84,8 @@ Founded by [**Mohammad Arslan**](https://github.com/arslanhq) in Beirut, Lebanon
 
 **[datavista.studio](https://datavista.studio/) · [Contact](https://datavista.studio/contact)**
 
+
+**Governance:** [Publishing policy](docs/PUBLISHING_POLICY.md) · [Security reporting](SECURITY.md)
+
 ---
 <sub>Brand artwork is illustrative. It does not promise public availability or endorse a commercial release. Protected production and private development repositories remain private.</sub>
