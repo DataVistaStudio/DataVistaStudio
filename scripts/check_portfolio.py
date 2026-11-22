@@ -131,7 +131,7 @@ def check_vector_artwork():
                 key = attr.rsplit("}", 1)[-1].lower()
                 if key.startswith("on") or key == "href":
                     errors.append(f"forbidden SVG event/link attribute {key}: {slug}")
-                if re.search(r"url\\s*\\(\\s*['\\\"]?\\s*(?:https?:|javascript:|data:|//)", value, re.I):
+                if re.search(r"url\s*\(\s*['\"]?\s*(?:https?:|javascript:|data:|//)", value, re.I):
                     errors.append(f"external SVG paint/resource URL: {slug}")
 
         if len([node for node in svg.iter() if node.tag in (ns + "path", ns + "rect", ns + "circle")]) < 10:
