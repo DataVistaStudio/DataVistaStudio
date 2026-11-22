@@ -15,7 +15,7 @@ import sys
 import time
 
 ROOT = Path(__file__).resolve().parents[1]
-ALLOWED = {"datavista.studio", "market.961.menu", "961.menu", "meet.almayadeen.online"}
+ALLOWED = {"datavista.studio", "dvnews.datavista.studio", "market.961.menu", "961.menu", "meet.almayadeen.online"}
 PAIR = re.compile(r'<a href="([^"]+)"><img src="([^"]+)"')
 USER_AGENT = "DataVistaPublicPortfolioLinkAudit/1.0"
 
