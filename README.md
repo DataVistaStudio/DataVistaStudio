@@ -76,7 +76,7 @@ Other work includes [CR Multiview](https://datavista.studio/cr/), [DataVista Sto
 
 ## About the portfolio
 
-These are **custom editorial vector cards**, not screenshots and not simulated product UIs. Each illustration identifies a project; the actual product is accessed through its project link.
+These are **art-directed editorial project cards**, not screenshots and not simulated product UIs. Each illustration identifies a project; the actual product is accessed through its project link.
 
 We distinguish live public services, previews, restricted operator systems and concepts. No private source code, media streams, customer records or infrastructure secrets are published here.
 
@@ -84,6 +84,8 @@ Founded by [**Mohammad Arslan**](https://github.com/arslanhq) in Beirut, Lebanon
 
 **[datavista.studio](https://datavista.studio/) · [Contact](https://datavista.studio/contact)**
 
+
+**Collaboration:** [What we can build together](docs/COLLABORATION.md) · [Public corrections](CONTRIBUTING.md)
 
 **Governance:** [Publishing policy](docs/PUBLISHING_POLICY.md) · [Security reporting](SECURITY.md)
 
