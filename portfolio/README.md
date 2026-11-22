@@ -123,6 +123,6 @@ Jobs and specialists discovery concept.<br/>
 
 **Public** is a public-facing site; **Restricted** requires authorized access; **Preview** and **Coming soon** do not imply commercial launch; **Concept** is exploratory.
 
-Market.961.MENU has replaced the old “DataVista Marketplace” portfolio name. We use [https://market.961.menu/](https://market.961.menu/) as its current public address. The restricted project source and staging environment are separate and unchanged.
+Market.961.MENU is the official name used for this portfolio entry. We use [https://market.961.menu/](https://market.961.menu/) as its current public address. The restricted project source and staging environment are separate and unchanged.
 
 Product links are not open-source licenses. We do not share sensitive operational screenshots, customer records, private source code or licensed third-party media in the portfolio.
