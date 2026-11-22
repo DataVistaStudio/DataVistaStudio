@@ -2,7 +2,7 @@
 
 [← Main profile](../README.md) · [العربية](README.ar.md) · [Visual card gallery](visual-tour.md)
 
-**16 current products and selected projects — 10 featured with newly approved artwork**, presented as a consistent set of editorial vector cards. These are not screenshots of existing interfaces.
+**16 current products and selected projects — 10 featured with newly approved artwork**, presented as a curated visual portfolio: 10 approved art-directed image cards and six earlier vector cards. None is a screenshot of a live interface.
 
 <table><tbody>
 <tr>
