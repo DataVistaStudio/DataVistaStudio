@@ -1,0 +1,45 @@
+name: Public portfolio correction
+description: Report a broken public link, inaccurate description, or accessibility issue
+title: "[Portfolio] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form only for public portfolio corrections.
+        Do not submit passwords, tokens, personal records, vulnerabilities or private URLs.
+        See SECURITY.md for sensitive security concerns.
+  - type: dropdown
+    id: topic
+    attributes:
+      label: Type of correction
+      options:
+        - Broken public URL
+        - Project name or status
+        - Accessibility or translation
+        - Approved public image or caption
+        - Other non-sensitive portfolio wording
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Affected public page
+      description: Provide only a publicly accessible DataVista or GitHub URL.
+      placeholder: https://github.com/DataVistaStudio/DataVistaStudio
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What needs correction?
+      description: Describe the public issue and the proposed correction without private data.
+      placeholder: The public link currently points to ...
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Public information only
+      options:
+        - label: I have not included credentials, private records, customer information, or confidential security findings.
+          required: true
