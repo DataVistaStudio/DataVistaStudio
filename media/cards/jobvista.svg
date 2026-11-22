@@ -13,7 +13,7 @@
 <path d="M1240 229l41-15-13 42" stroke="#f6caac" fill="none" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="823" cy="642" r="13" fill="#fff2df" stroke="#f6caac" stroke-width="4"/><circle cx="940" cy="538" r="13" fill="#fff2df" stroke="#f6caac" stroke-width="4"/><circle cx="1052" cy="449" r="13" fill="#fff2df" stroke="#f6caac" stroke-width="4"/><circle cx="1155" cy="349" r="13" fill="#fff2df" stroke="#f6caac" stroke-width="4"/><circle cx="1268" cy="229" r="13" fill="#fff2df" stroke="#f6caac" stroke-width="4"/>
 <rect x="832" y="140" width="213" height="70" rx="7" fill="#ead5e8"/>
-<text x="854" y="183" fill="#33344f" font-family="Arial" font-size="26" font-weight="700" letter-spacing="2">IDEAS → WORK</text>
+<text x="854" y="183" fill="#33344f" font-family="Arial" font-size="22" font-weight="700" letter-spacing="1">IDEAS → WORK</text>
 <circle cx="1302" cy="126" r="55" fill="none" stroke="#f2d6e0" stroke-width="4"/><path d="M1283 142l19-53 19 53z" fill="#f5d0b9"/>
 </g>
 <rect x="25" y="25" width="1390" height="760" rx="12" fill="none" stroke="#dec4a0" stroke-width="2" opacity=".42"/>
