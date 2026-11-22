@@ -1,29 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 810" width="1440" height="810" role="img" aria-label="NEWS MAP — Location-based news exploration.">
-<title>NEWS MAP</title><desc>Location-based news exploration. — editorial vector portfolio artwork by DataVista Studio, not a screenshot</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091C28"/><stop offset=".55" stop-color="#102C3A"/><stop offset="1" stop-color="#123A41"/></linearGradient>
-  <radialGradient id="halo"><stop stop-color="#A6BFD2" stop-opacity=".16"/><stop offset="1" stop-color="#A6BFD2" stop-opacity="0"/></radialGradient>
-  <pattern id="dots" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.4" fill="#ECDEC4" opacity=".20"/></pattern>
-</defs>
-<rect width="1440" height="810" fill="url(#bg)"/>
-<rect x="760" y="0" width="680" height="810" fill="url(#dots)" opacity=".32"/>
-<circle cx="1080" cy="412" r="375" fill="url(#halo)"/>
-<circle cx="1080" cy="412" r="286" fill="none" stroke="#A6BFD2" stroke-opacity=".25" stroke-width="2"/>
-<circle cx="1080" cy="412" r="222" fill="#102B34" fill-opacity=".48" stroke="#A6BFD2" stroke-opacity=".75" stroke-width="3"/>
-<circle cx="1080" cy="412" r="308" fill="none" stroke="#A6BFD2" stroke-opacity=".12" stroke-width="1" stroke-dasharray="4 19"/>
-<path d="M786 715 C905 632 978 661 1106 580 C1209 509 1312 520 1454 426" fill="none" stroke="#F5E8D3" stroke-opacity=".22" stroke-width="2"/>
-<path d="M795 728 C928 644 992 673 1121 598 C1228 534 1336 541 1454 457" fill="none" stroke="#E8CF9F" stroke-opacity=".12" stroke-width="2"/>
-<rect x="18" y="18" width="1404" height="774" rx="24" fill="none" stroke="#D9B788" stroke-opacity=".32" stroke-width="2"/>
-<rect x="73" y="86" width="12" height="12" rx="2" fill="#A6BFD2"/><text x="106" y="98" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="650" letter-spacing="5" fill="#F3EFE7">DATAVISTA <tspan fill="#A6BFD2">STUDIO</tspan></text>
-<text x="1352" y="101" font-family="Inter,Arial,sans-serif" font-size="20" text-anchor="end" letter-spacing="3" fill="#D4DACE" opacity=".75">SELECTED WORK</text>
-<path d="M80 223h118" stroke="#A6BFD2" stroke-width="5" stroke-linecap="round"/>
-<text x="79" y="270" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="650" letter-spacing="5" fill="#A6BFD2">GEOGRAPHIC DISCOVERY</text>
-<text x="74" y="402" font-family="Inter,Arial,sans-serif" font-size="94" font-weight="800" letter-spacing="-2.4" fill="#FAF8F1">NEWS MAP</text>
-<text x="80" y="474" font-family="Inter,Arial,sans-serif" font-size="31" font-weight="400" fill="#D3DFDC">Location-based news exploration.</text>
-<path d="M80 624h545" stroke="#E4DDD1" stroke-opacity=".17" stroke-width="2"/>
-<text x="80" y="682" font-family="Inter,Arial,sans-serif" font-size="22" letter-spacing="3" fill="#F0D5B2" opacity=".88">PRODUCT / PROJECT PROFILE</text>
-<g style="color:#A6BFD2" transform="translate(940 279) scale(1.05)"><g fill="none" stroke="currentColor" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"><path d="M128 230c-27-39-75-85-75-128a75 75 0 11150 0c0 43-48 89-75 128z"/><circle cx="128" cy="101" r="29"/><path d="M39 220h41M175 220h42"/></g></g>
-<circle cx="1080" cy="187" r="10" fill="#A6BFD2"/><circle cx="1244" cy="567" r="7" fill="#A6BFD2" opacity=".9"/>
-<text x="79" y="747" font-family="Inter,Arial,sans-serif" font-size="23" font-weight="500" letter-spacing="2" fill="#A5C1C3">DATAVISTA.STUDIO</text>
-<text x="1360" y="747" font-family="Inter,Arial,sans-serif" font-size="23" text-anchor="end" font-weight="600" letter-spacing="3" fill="#A6BFD2">14 / 16</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 810" width="1440" height="810" role="img" aria-labelledby="t d"><title id="t">NEWS MAP — DataVista Studio</title><desc id="d">Original project-specific editorial artwork. Not a screenshot or live source data.</desc>
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17394b"/><stop offset="1" stop-color="#133b47"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#09202e"/><stop offset="1" stop-color="#09202e" stop-opacity=".65"/></linearGradient>
+<pattern id="noise" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="7" cy="9" r=".9" fill="#f8e4c3" opacity=".19"/><circle cx="28" cy="23" r="1.2" fill="#b5d9dc" opacity=".21"/></pattern>
+<clipPath id="crop"><rect x="747" y="32" width="654" height="739" rx="5"/></clipPath></defs>
+<rect width="1440" height="810" fill="url(#a)"/><rect width="1440" height="810" fill="url(#noise)"/>
+<g clip-path="url(#crop)">
+<rect x="747" y="32" width="654" height="739" fill="#213e4e"/>
+<path d="M748 253L922 118 1124 207 1401 100V617L1215 722 1024 641 748 773Z" fill="#dfd2b6" opacity=".94"/>
+<path d="M748 253L922 118 1124 207 1401 100M748 437L922 318 1124 405 1401 300M748 628L922 517 1124 604 1401 490" stroke="#718a86" stroke-width="3" fill="none"/>
+<path d="M922 118v398l102 125M1124 207v397" stroke="#718a86" stroke-width="2" fill="none"/>
+<path d="M770 138q-95 210 22 319t-5 315" stroke="#5a807e" opacity=".23" fill="none"/><path d="M842 138q-95 210 22 319t-5 315" stroke="#5a807e" opacity=".23" fill="none"/><path d="M914 138q-95 210 22 319t-5 315" stroke="#5a807e" opacity=".23" fill="none"/><path d="M986 138q-95 210 22 319t-5 315" stroke="#5a807e" opacity=".23" fill="none"/><path d="M1058 138q-95 210 22 319t-5 315" stroke="#5a807e" opacity=".23" fill="none"/><path d="M1130 138q-95 210 22 319t-5 315" stroke="#5a807e" opacity=".23" fill="none"/><path d="M1202 138q-95 210 22 319t-5 315" stroke="#5a807e" opacity=".23" fill="none"/><path d="M1274 138q-95 210 22 319t-5 315" stroke="#5a807e" opacity=".23" fill="none"/><path d="M1346 138q-95 210 22 319t-5 315" stroke="#5a807e" opacity=".23" fill="none"/><path d="M1418 138q-95 210 22 319t-5 315" stroke="#5a807e" opacity=".23" fill="none"/>
+<path d="M783 652Q950 594 1026 491T1326 251" stroke="#ac5449" stroke-width="8" fill="none" stroke-dasharray="22 15"/>
+<path d="M1011 504C976 447 962 433 962 404a49 49 0 0198 0c0 31-17 55-49 100z" fill="#aa5448" stroke="#fff1d8" stroke-width="5"/><circle cx="1011" cy="399" r="14" fill="#fff1d8"/>
+<path d="M1320 282c-36-54-49-73-49-105a49 49 0 0198 0c0 32-16 57-49 105z" fill="#aa5448" stroke="#fff1d8" stroke-width="5"/><circle cx="1320" cy="174" r="14" fill="#fff1d8"/>
+<g transform="translate(1189 601)"><circle r="72" fill="#133847" stroke="#f0d9b0" stroke-width="5"/><path d="M0-62V62M-62 0H62" stroke="#f0d9b0" stroke-width="3"/><path d="M0-51l14 39-14-10-14 10Z" fill="#df996e"/></g>
+</g>
+<rect x="25" y="25" width="1390" height="760" rx="12" fill="none" stroke="#dec4a0" stroke-width="2" opacity=".42"/>
+<rect x="48" y="48" width="669" height="710" rx="6" fill="url(#fade)"/>
+<rect x="75" y="88" width="12" height="12" fill="#b5d9dc"/>
+<text x="108" y="100" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#f8f2e8" letter-spacing="4" font-weight="700">DATAVISTA <tspan fill="#b5d9dc">STUDIO</tspan></text>
+<text x="1359" y="100" font-size="20" text-anchor="end" fill="#f2e4d0" letter-spacing="3" font-family="Arial">SELECTED WORK</text>
+<path d="M80 230h134" stroke="#b5d9dc" stroke-width="5"/><text x="80" y="275" font-size="21" font-weight="700" fill="#b5d9dc" font-family="Arial" letter-spacing="4">GEOGRAPHIC DISCOVERY</text>
+<text x="74" y="407" font-size="86" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-2" fill="#faf5ea">NEWS MAP</text>
+<text x="80" y="480" font-family="Arial,Helvetica,sans-serif" font-size="28" fill="#d8dfe0">Every location tells a story.</text>
+<path d="M80 628h540" stroke="#dec9b3" stroke-width="2" opacity=".32"/>
+<text x="80" y="671" font-family="Arial" font-size="18" letter-spacing="3" fill="#e1c7a7">EDITORIAL / ORIGINAL ARTWORK</text>
+<text x="80" y="744" font-family="Arial" font-size="22" letter-spacing="2" fill="#a5c4c6">DATAVISTA.STUDIO</text>
+<text x="1362" y="744" font-family="Arial" font-size="23" font-weight="700" text-anchor="end" letter-spacing="3" fill="#b5d9dc">14 / 16</text>
 </svg>
