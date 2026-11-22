@@ -4,7 +4,7 @@
 
 ## The artwork
 
-These **16 editorial project cards** use a shared format and considered typography. Ten are approved art-directed images; the remaining six use simpler vector illustrations pending a future visual refresh. **They are not screenshots or evidence of a shipped user interface.**
+All **16 project cards now have individual art direction** in a coordinated editorial format: 10 approved image-based posters plus 6 distinctive new original vector artworks (Observatories, FlashNews, Economy Desk, News Map, Aparat, JobVista). **They are not screenshots or evidence of a shipped user interface.**
 
 <table><tbody>
 <tr>
