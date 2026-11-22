@@ -7,9 +7,8 @@ not application health or authorization to access restricted systems.
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from urllib.parse import urlparse
-from urllib.request import Request, urlopen
+from urllib.request import Request, build_opener, HTTPRedirectHandler
 from urllib.error import HTTPError
-import os
 import re
 import sys
 import time
@@ -20,20 +19,44 @@ PAIR = re.compile(r'<a href="([^"]+)"><img src="([^"]+)"')
 USER_AGENT = "DataVistaPublicPortfolioLinkAudit/1.0"
 
 
+def approved_public_url(url):
+    """Allow only known public HTTPS origins before any outbound request."""
+    try:
+        address = urlparse(url)
+        return (
+            address.scheme == "https"
+            and address.hostname in ALLOWED
+            and address.port in (None, 443)
+            and address.username is None
+            and address.password is None
+        )
+    except ValueError:
+        return False
+
+
+class ApprovedRedirects(HTTPRedirectHandler):
+    """Refuse an off-domain redirect *before* urllib contacts its destination."""
+
+    def redirect_request(self, request, fp, code, msg, headers, newurl):
+        if not approved_public_url(newurl):
+            raise ValueError("redirect rejected: non-allowlisted public destination")
+        return super().redirect_request(request, fp, code, msg, headers, newurl)
+
+
+OPENER = build_opener(ApprovedRedirects())
+
+
 def read_pairs(filename):
     return PAIR.findall((ROOT / filename).read_text(encoding="utf-8"))
 
 
 def check_one(url, image=False):
-    parsed = urlparse(url)
-    if parsed.scheme != "https" or parsed.hostname not in ALLOWED or parsed.username or parsed.password:
-        return (url, "blocked: hostname or scheme not allowlisted")
-    if parsed.port not in (None, 443):
-        return (url, "blocked: non-standard port")
+    if not approved_public_url(url):
+        return (url, "blocked: URL is not an allowlisted public HTTPS origin")
     for attempt in range(2):
         try:
             request = Request(url, headers={"User-Agent": USER_AGENT}, method="HEAD")
-            with urlopen(request, timeout=10) as response:
+            with OPENER.open(request, timeout=10) as response:
                 if response.status != 200:
                     return (url, f"HTTP {response.status}")
                 final = urlparse(response.geturl())
@@ -51,7 +74,7 @@ def check_one(url, image=False):
                 # Verify the real user-facing page instead of a false 404 alarm.
                 try:
                     req = Request(url, headers={"User-Agent": USER_AGENT}, method="GET")
-                    with urlopen(req, timeout=10) as res:
+                    with OPENER.open(req, timeout=10) as res:
                         final = urlparse(res.geturl())
                         if res.status == 200 and res.read(1) and final.scheme == "https" and final.hostname in ALLOWED:
                             return (url, None)
