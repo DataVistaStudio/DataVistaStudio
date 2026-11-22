@@ -7,13 +7,13 @@ on:
       - '**/*.md'
       - 'scripts/check_portfolio.py'
       - 'media/cards/*.svg'
-      - '.github/workflows/portfolio-integrity.yml'
+      - '.github/workflows/*.yml'
   pull_request:
     paths:
       - '**/*.md'
       - 'scripts/check_portfolio.py'
       - 'media/cards/*.svg'
-      - '.github/workflows/portfolio-integrity.yml'
+      - '.github/workflows/*.yml'
   workflow_dispatch:
 
 permissions:
