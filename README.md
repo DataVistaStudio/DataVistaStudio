@@ -6,7 +6,7 @@
 
 **Media intelligence · Data platforms · Digital operations**
 
-A portfolio of real products, active platforms and clearly labelled previews — beyond the older corporate website.
+A curated view of working products, media platforms and clearly labelled project previews.
 
 [**All 16 projects**](portfolio/README.md) · [**العربية**](README.ar.md) · [**Founder**](https://github.com/arslanhq) · [**Observatories (11)**](portfolio/observatories.md) · [**Contact**](https://datavista.studio/contact)
 
