@@ -1,56 +1,71 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/253784265?v=4" alt="DataVista Studio" width="90" />
+<img src="https://avatars.githubusercontent.com/u/253784265?v=4" width="92" alt="DataVista Studio" />
 
 # DataVista Studio
 
-**DATA & INFORMATION STUDIO**
+**Information systems · Media technology · Digital products**
 
-**Clearer information. Better decisions.**
+We build working tools for media teams, researchers, businesses, educators and operators.
 
-We build practical digital products around information, media monitoring, structured data, publishing and operational workflows.
-
-[**Website**](https://datavista.studio/) · [**Selected work**](https://datavista.studio/work/) · [**Insights**](https://datavista.studio/insights) · [**Products**](https://datavista.studio/products) · [**Contact**](https://datavista.studio/contact)
-
-**English** · [العربية](README.ar.md)
+[**Explore the work**](portfolio/README.md) · [**Arabic / العربية**](README.ar.md) · [**Website**](https://datavista.studio/) · [**Founder**](https://github.com/arslanhq)
 
 </div>
 
 ---
 
-### What we do
+## Products, not just a website
 
-We organize information, connect its context and turn recurring work into useful tools. Our work ranges from public-facing digital services to specialist media and business operations.
+The original company website does not capture the full scope of recent work. This portfolio documents current products and newer engineering projects individually, including projects with private back offices and public-facing previews.
 
-We favor clear interfaces, verified sources, considered automation and products that can be maintained over time.
+| Area | Actual work | Access |
+| --- | --- | --- |
+| **Media monitoring** | [DataVista Newsroom](https://datavista.studio/newsroom/), [Observatories](https://datavista.studio/observatories/), [FlashNews](https://datavista.studio/flashnews/) | Public interfaces |
+| **Media guest discovery** | [People Report](https://datavista.studio/people_report/) and [Experts2 / guest applications](https://datavista.studio/experts2/join.php?lang=ar) | Public directory and application; editorial operations private |
+| **Broadcast operations** | [CR Multiview](https://datavista.studio/cr/) and [Al Mayadeen Talk](https://meet.almayadeen.online/) | Operator / authenticated access |
+| **Learning and publishing** | [SATR Academy](https://datavista.studio/academy/), [DataVista EBOOK](https://datavista.studio/ebook/) | Public catalogues; some workflows require access |
+| **Commerce** | [961.menu](https://961.menu/), [DataVista Marketplace](https://datavista.studio/marketplace/) | Live service / separate public marketplace preview |
+| **Market and data tools** | [DataVista Stock](https://datavista.studio/stock/), [Economy Desk](https://datavista.studio/economy-desk/), [News Map](https://datavista.studio/newsmap/) | Public information / preview tools |
+| **Other current work** | [Aparat language bridge](https://datavista.studio/aparat/), [JobVista](https://datavista.studio/jobvista/) | Public interfaces; maturity varies |
 
-### Selected work
+**[Browse the detailed project directory →](portfolio/README.md)** · **[Real interface walkthrough →](portfolio/visual-tour.md)**
 
-| Project | What it addresses | Explore |
-| :--- | :--- | :--- |
-| **News observatories** | Continuous monitoring and regional discovery across news sources. | [Insights](https://datavista.studio/insights) |
-| **961.menu** | Digital storefronts, menus, QR access and ordering for businesses in Lebanon. | [961.menu](https://961.menu/) |
-| **DataVista EBOOK** | An Arabic catalogue of books, authors and source-linked records. | [Library](https://datavista.studio/ebook/) |
-| **SATR Academy** | Bilingual learning and course-management workflows. | [Selected work](https://datavista.studio/work/) |
-| **Media operations** | Multiview monitoring, recording and broadcast-oriented workflows. | [Products & tools](https://datavista.studio/products) |
+## Inside current interfaces
 
-Other selected projects and experiments are available on our [work](https://datavista.studio/work/) and [products](https://datavista.studio/products) pages. Access and maturity vary by product.
+The images below are **real screenshots of publicly accessible DataVista pages captured on 22 November 2026**. They illustrate specific product screens rather than generic stock artwork.
 
-### How we work
+<a href="portfolio/visual-tour.md#1-people-report--guest-research">
+  <img src="media/people-report-public-directory-20261122.png" width="760" alt="Actual DataVista People Report public guest directory: research search bar and profile discovery interface" />
+</a>
 
-- **Clarity:** interfaces and information people can understand quickly.
-- **Traceability:** structured sources, documented decisions and verifiable changes.
-- **Reliability:** bounded testing, careful releases and ongoing operational support.
-- **Privacy:** separate public product presentation from protected infrastructure and customer data.
+*People Report: find public guest profiles and review published professional information.*
 
-### Collaboration
+<a href="portfolio/visual-tour.md#3-satr-academy--course-discovery">
+  <img src="media/satr-academy-course-catalog-20261122.png" width="760" alt="Actual SATR Academy course catalogue showing search, category sorting and published course cards" />
+</a>
 
-For partnerships, tailored implementations, media and data solutions, start with a practical problem.
+*SATR: course catalogue with search, filtering and instructor-linked training.*
 
-**[Get in touch with DataVista Studio](https://datavista.studio/contact)**
+[**See the guest application and marketplace preview screenshots →**](portfolio/visual-tour.md)
 
-Founded by [**Mohammad Arslan**](https://github.com/arslanhq), based in Beirut, Lebanon.
+## What differentiates our work
+
+**Working interfaces.** Research, input, discovery, review, monitoring and operational workflows — not just landing pages.
+
+**Arabic and English.** Products designed for the languages and formats they serve.
+
+**Source context.** Where relevant, we keep links, provenance and review status visible.
+
+**Responsible boundaries.** Public demonstrations do not expose private media streams, customer data, credentials, unreleased commercial code or production systems.
+
+## Collaboration
+
+DataVista Studio is based in Beirut, Lebanon, and founded by [**Mohammad Arslan**](https://github.com/arslanhq).
+
+We are open to conversations about media workflows, product partnerships, data applications, custom implementations and licensed deployments.
+
+**[Website](https://datavista.studio/) · [Contact](https://datavista.studio/contact)**
 
 ---
 
-<sub>**Public portfolio, private engineering.** This profile describes selected work; it does not publish or license proprietary source code, customer records, protected datasets, credentials or operational systems. Individual open-source releases, where applicable, will have their own explicit licenses.</sub>
+<sub>Public-facing product descriptions are not open-source licenses. Product readiness and access conditions vary. Screenshots represent the public interface on the stated capture date.</sub>

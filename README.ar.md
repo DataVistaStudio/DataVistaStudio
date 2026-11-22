@@ -1,56 +1,68 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/253784265?v=4" alt="DataVista Studio" width="90" />
+<img src="https://avatars.githubusercontent.com/u/253784265?v=4" width="92" alt="DataVista Studio" />
 
 # DataVista Studio | داتافيستا
 
-**استوديو بيانات ومعلومات**
+**أنظمة معلومات · تقنيات إعلامية · منتجات رقمية**
 
-**رؤية أوضح. قرار أذكى.**
+نطوّر أدوات تعمل فعليًا لفرق الإعلام والباحثين والمؤسسات والمدرّسين والمشغّلين.
 
-نحوّل تدفق المعلومات والعمل المتكرر إلى منتجات وأدوات رقمية واضحة ومفيدة، في مجالات الرصد الإعلامي والبيانات والنشر والعمليات.
-
-[**الموقع الرسمي**](https://datavista.studio/) · [**أعمالنا**](https://datavista.studio/work/) · [**الرصد والتحليل**](https://datavista.studio/insights) · [**المنتجات**](https://datavista.studio/products) · [**تواصل معنا**](https://datavista.studio/contact)
-
-[English](README.md) · **العربية**
+[**استعرض المشاريع**](portfolio/README.ar.md) · [**English**](README.md) · [**الموقع**](https://datavista.studio/) · [**المؤسس**](https://github.com/arslanhq)
 
 </div>
 
 ---
 
-### ماذا نفعل؟
+## أعمالنا أكبر من الموقع التعريفي
 
-نجمع المعلومات من مصادرها، ننظمها ونربط سياقها، ثم نحوّلها إلى استخدام فعلي: منصة أو لوحة متابعة أو خدمة تسهّل العمل اليومي.
+الموقع القديم لا يعرض كامل المشاريع الجديدة. هنا نُظهر المنتجات والمنصات الفعلية، مع توضيح ما هو منشور للعموم، وما لا يزال معاينة عامة، وما يحتاج إلى صلاحية دخول.
 
-نركز على وضوح الواجهات، وإمكانية تتبع المصادر، والأتمتة المدروسة، والاستمرار في تحسين المنتجات دون تعقيد غير ضروري.
+| المجال | المشاريع | طبيعة الوصول |
+| --- | --- | --- |
+| **الرصد والأخبار** | [Newsroom](https://datavista.studio/newsroom/) · [Observatories](https://datavista.studio/observatories/) · [FlashNews](https://datavista.studio/flashnews/) | واجهات عامة |
+| **الضيوف والخبراء** | [People Report](https://datavista.studio/people_report/) · [الانضمام إلى Experts2](https://datavista.studio/experts2/join.php?lang=ar) | دليل وطلب انضمام عامان؛ الإدارة خاصة |
+| **عمليات البث** | [CR Multiview](https://datavista.studio/cr/) · [Al Mayadeen Talk](https://meet.almayadeen.online/) | دخول للمشغلين |
+| **التعليم والكتب** | [SATR Academy](https://datavista.studio/academy/) · [EBOOK](https://datavista.studio/ebook/) | كتالوجات عامة وعمليات محمية |
+| **التجارة والمنصات** | [961.menu](https://961.menu/) · [DataVista Marketplace](https://datavista.studio/marketplace/) | خدمة ومنفذ معاينة للسوق |
+| **الاقتصاد والبيانات** | [Stock](https://datavista.studio/stock/) · [Economy Desk](https://datavista.studio/economy-desk/) · [News Map](https://datavista.studio/newsmap/) | معلومات ومعاينات |
+| **أعمال إضافية** | [Aparat](https://datavista.studio/aparat/) · [JobVista](https://datavista.studio/jobvista/) | واجهات عامة بمراحل مختلفة |
 
-### أعمال مختارة
+**[دليل الأعمال المفصّل ←](portfolio/README.ar.md)** · **[جولة مرئية في الواجهات الحقيقية ←](portfolio/visual-tour.md)**
 
-| المشروع | ما الذي يقدمه؟ | الرابط |
-| :--- | :--- | :--- |
-| **مراصد DataVista** | متابعة الأخبار والمصادر بحسب المناطق والسياقات التحريرية. | [الرصد والتحليل](https://datavista.studio/insights) |
-| **961.menu** | صفحات رقمية للمحلات، قوائم، QR وطلبات في لبنان. | [961.menu](https://961.menu/) |
-| **DataVista EBOOK** | مكتبة وفهرس عربي للكتب والمؤلفين مع سجلات مرتبطة بمصادرها. | [المكتبة](https://datavista.studio/ebook/) |
-| **SATR Academy** | أدوات للتعلّم وإدارة الدورات بالعربية والإنجليزية. | [الأعمال](https://datavista.studio/work/) |
-| **أدوات العمليات الإعلامية** | متابعة متعددة الشاشات وتسجيل وسير عمل مخصص للإنتاج الإعلامي. | [المنتجات](https://datavista.studio/products) |
+## صور من العمل الحقيقي
 
-توجد أعمال وتجارب أخرى ضمن [معرض أعمالنا](https://datavista.studio/work/) و[صفحة المنتجات](https://datavista.studio/products). تختلف مراحل التطوير ومتطلبات الوصول بين مشروع وآخر.
+هذه **لقطات فعلية من واجهات عامة** بتاريخ 22 نوفمبر 2026، وليست صورًا مولّدة أو صورًا تزيينية.
 
-### مبادئ العمل
+<a href="portfolio/visual-tour.md#1-people-report--guest-research">
+  <img src="media/people-report-public-directory-20261122.png" width="760" alt="واجهة دليل الضيوف العامة والبحث في الملفات المهنية على People Report" />
+</a>
 
-- **الوضوح:** معلومة وواجهة يمكن فهمهما بسرعة.
-- **الموثوقية:** بيانات منظمة ومصادر موضحة وقرارات موثقة.
-- **الاستمرارية:** اختبارات محددة وتحديثات مسؤولة دون المساس بالعمل المقبول.
-- **الخصوصية:** فصل العرض العام عن الشيفرة الداخلية وبيانات العملاء والبنية التشغيلية.
+*People Report: البحث عن الضيوف والخبراء واستعراض المعلومات المهنية المنشورة.*
 
-### تعاون معنا
+<a href="portfolio/visual-tour.md#3-satr-academy--course-discovery">
+  <img src="media/satr-academy-course-catalog-20261122.png" width="760" alt="واجهة كتالوج الدورات المنشورة في SATR Academy" />
+</a>
 
-للشراكات أو الحلول المتخصصة في الرصد والبيانات والإعلام والخدمات الرقمية، ابدأ بالفكرة أو المشكلة التي تريد حلها.
+*SATR Academy: كتالوج الدورات، البحث والتصفية وارتباط الدورات بالمدرّسين.*
 
-**[تواصل مع DataVista Studio](https://datavista.studio/contact)**
+[**لقطات إضافية لنظام انضمام الضيوف ومعاينة السوق ←**](portfolio/visual-tour.md)
 
-تأسس الاستوديو على يد [**Mohammad Arslan**](https://github.com/arslanhq) في بيروت، لبنان.
+## طريقة العمل
+
+- **حلول عملية:** أدوات للبحث والمراجعة والرصد وإدارة العمليات، لا صفحات ترويجية فقط.
+- **لغة مناسبة:** العربية والإنجليزية بحسب طبيعة المنتج.
+- **التحقق من البيانات:** توثيق المصادر وحالة المراجعة عندما تسمح طبيعة العمل.
+- **حماية الأصول:** لا ننشر بيانات العملاء أو محتوى التشغيل الخاص أو مفاتيح الأنظمة أو الشيفرة التجارية.
+
+## تواصل وتعاون
+
+تأسّس DataVista Studio في بيروت، لبنان، على يد [**Mohammad Arslan**](https://github.com/arslanhq).
+
+للتعاون في المنتجات الإعلامية والبيانات والخدمات الرقمية والحلول الخاصة:
+
+**[الموقع الرسمي](https://datavista.studio/) · [تواصل معنا](https://datavista.studio/contact)**
 
 ---
 
-<sub>**واجهة عامة، وهندسة خاصة.** تعرض هذه الصفحة أعمالًا مختارة، ولا تعني إتاحة الشيفرة التجارية أو السجلات الخاصة أو البيانات المحمية أو مفاتيح الخدمات. أي مشروع مفتوح المصدر يُنشر بترخيص واضح ومستقل.</sub>
+<sub>عرض المنتجات للعامة لا يعني إتاحة شيفرتها أو بياناتها لإعادة الاستخدام. تختلف حالة الإطلاق والصلاحيات بين منصة وأخرى. الصور من الواجهات العامة في تاريخ الالتقاط المذكور.</sub>
