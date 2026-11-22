@@ -2,7 +2,7 @@
 
 [← Main profile](../README.md) · [العربية](README.ar.md) · [Visual card gallery](visual-tour.md)
 
-**16 current products and selected projects — 10 featured with newly approved artwork**, presented as a curated visual portfolio: 10 approved art-directed image cards and six earlier vector cards. None is a screenshot of a live interface.
+**16 products and selected projects**, each with its own art-directed composition: 10 photographic-style editorial cards and 6 bespoke vector artworks. All use coordinated formats and typography; none is a screenshot of a live interface.
 
 <table><tbody>
 <tr>
