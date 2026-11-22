@@ -4,7 +4,7 @@
 
 ## The artwork
 
-These **16 coordinated editorial project cards** are editorial artworks: one size, one typography system, an elegant navy/bronze palette and a distinct symbol for each project. **They are not screenshots or evidence of a shipped user interface.**
+These **16 editorial project cards** use a shared format and considered typography. Ten are approved art-directed images; the remaining six use simpler vector illustrations pending a future visual refresh. **They are not screenshots or evidence of a shipped user interface.**
 
 <table><tbody>
 <tr>
