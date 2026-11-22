@@ -6,11 +6,13 @@ on:
     paths:
       - '**/*.md'
       - 'scripts/check_portfolio.py'
+      - 'media/cards/*.svg'
       - '.github/workflows/portfolio-integrity.yml'
   pull_request:
     paths:
       - '**/*.md'
       - 'scripts/check_portfolio.py'
+      - 'media/cards/*.svg'
       - '.github/workflows/portfolio-integrity.yml'
   workflow_dispatch:
 
