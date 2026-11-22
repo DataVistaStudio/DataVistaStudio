@@ -119,8 +119,21 @@ def check_vector_artwork():
         desc = svg.find(ns + "desc")
         if title is None or desc is None or not (title.text or "").strip() or not (desc.text or "").strip():
             errors.append(f"missing SVG title / description: {slug}")
-        if any(node.tag in (ns + "script", ns + "foreignObject") for node in svg.iter()):
-            errors.append(f"forbidden SVG executable/embedded content: {slug}")
+        # Keep GitHub-rendered project art inert: no active content or remote fetches.
+        if b"<!doctype" in blob.lower() or b"<!entity" in blob.lower():
+            errors.append(f"DTD / entity content is forbidden in art: {slug}")
+        forbidden_elements = {"script", "foreignObject", "image", "iframe", "audio", "video", "animate", "set"}
+        for node in svg.iter():
+            local = node.tag.rsplit("}", 1)[-1]
+            if local in forbidden_elements:
+                errors.append(f"unsafe SVG element {local}: {slug}")
+            for attr, value in node.attrib.items():
+                key = attr.rsplit("}", 1)[-1].lower()
+                if key.startswith("on") or key == "href":
+                    errors.append(f"forbidden SVG event/link attribute {key}: {slug}")
+                if re.search(r"url\\s*\\(\\s*['\\\"]?\\s*(?:https?:|javascript:|data:|//)", value, re.I):
+                    errors.append(f"external SVG paint/resource URL: {slug}")
+
         if len([node for node in svg.iter() if node.tag in (ns + "path", ns + "rect", ns + "circle")]) < 10:
             errors.append(f"insufficient project-specific vector composition: {slug}")
     if len(fingerprints) != len(EXPECTED_SVGS):
