@@ -46,11 +46,14 @@ def check_one(url, image=False):
                         return (url, "empty image response")
             return (url, None)
         except HTTPError as error:
-            if error.code == 405:
+            if error.code in (404, 405) and not image:
+                # Some public sites handle GET correctly but do not implement HEAD.
+                # Verify the real user-facing page instead of a false 404 alarm.
                 try:
-                    req = Request(url, headers={"User-Agent": USER_AGENT})
+                    req = Request(url, headers={"User-Agent": USER_AGENT}, method="GET")
                     with urlopen(req, timeout=10) as res:
-                        if res.status == 200 and res.read(1):
+                        final = urlparse(res.geturl())
+                        if res.status == 200 and res.read(1) and final.scheme == "https" and final.hostname in ALLOWED:
                             return (url, None)
                 except Exception as nested:
                     if attempt:
