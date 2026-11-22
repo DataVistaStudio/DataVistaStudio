@@ -9,6 +9,7 @@ on:
       - 'README.ar.md'
       - 'media/cards/*.svg'
       - 'scripts/check_public_urls.py'
+      - 'scripts/test_public_urls.py'
       - '.github/workflows/public-link-health.yml'
   pull_request:
     paths:
@@ -17,6 +18,7 @@ on:
       - 'README.ar.md'
       - 'media/cards/*.svg'
       - 'scripts/check_public_urls.py'
+      - 'scripts/test_public_urls.py'
       - '.github/workflows/public-link-health.yml'
   schedule:
     - cron: '37 6 * * 1'
@@ -39,5 +41,7 @@ jobs:
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
         with:
           persist-credentials: false
+      - name: Check URL and redirect security without network access
+        run: python3 -m unittest discover -s scripts -p 'test_public_urls.py' -v
       - name: Verify live public URLs
         run: python3 scripts/check_public_urls.py
