@@ -4,18 +4,18 @@
 
 ## The artwork
 
-These **16 consistent vector cards** are editorial illustrations: one size, one typography system, an elegant navy/bronze palette and a distinct symbol for each project. **They are not screenshots or evidence of a shipped user interface.**
+These **16 coordinated editorial project cards** are editorial artworks: one size, one typography system, an elegant navy/bronze palette and a distinct symbol for each project. **They are not screenshots or evidence of a shipped user interface.**
 
 <table><tbody>
 <tr>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/newsroom/"><img src="../media/cards/newsroom.svg" alt="NEWSROOM project illustration" width="600" /></a>
+<a href="https://datavista.studio/newsroom/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/newsroom.jpg" alt="NEWSROOM project illustration" width="600" /></a>
 <p><strong>NEWSROOM</strong> · Public<br/>
 Live news and source monitoring.<br/>
 <a href="https://datavista.studio/newsroom/">Project link</a></p>
 </td>
 <td align="left" valign="top" width="50%">
-<a href="https://market.961.menu/"><img src="../media/cards/market-961-menu.svg" alt="Market.961.MENU project illustration" width="600" /></a>
+<a href="https://market.961.menu/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/market-961-menu.jpg" alt="Market.961.MENU project illustration" width="600" /></a>
 <p><strong>Market.961.MENU</strong> · Coming soon<br/>
 Lebanon marketplace — preparing for launch.<br/>
 <a href="https://market.961.menu/">Project link</a></p>
@@ -23,13 +23,13 @@ Lebanon marketplace — preparing for launch.<br/>
 </tr>
 <tr>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/people_report/"><img src="../media/cards/people-report.svg" alt="PEOPLE REPORT project illustration" width="600" /></a>
+<a href="https://datavista.studio/people_report/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/people-report.jpg" alt="PEOPLE REPORT project illustration" width="600" /></a>
 <p><strong>PEOPLE REPORT</strong> · Public directory<br/>
 Verified guest research and interview preparation.<br/>
 <a href="https://datavista.studio/people_report/">Project link</a></p>
 </td>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/experts2/join.php?lang=ar"><img src="../media/cards/experts2.svg" alt="EXPERTS2 project illustration" width="600" /></a>
+<a href="https://datavista.studio/experts2/join.php?lang=ar"><img src="https://datavista.studio/assets/portfolio-20261122/cards/experts2.jpg" alt="EXPERTS2 project illustration" width="600" /></a>
 <p><strong>EXPERTS2</strong> · Public application<br/>
 Guest applications and expertise matching.<br/>
 <a href="https://datavista.studio/experts2/join.php?lang=ar">Project link</a></p>
@@ -37,13 +37,13 @@ Guest applications and expertise matching.<br/>
 </tr>
 <tr>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/cr/"><img src="../media/cards/cr-multiview.svg" alt="CR MULTIVIEW project illustration" width="600" /></a>
+<a href="https://datavista.studio/cr/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/cr-multiview.jpg" alt="CR MULTIVIEW project illustration" width="600" /></a>
 <p><strong>CR MULTIVIEW</strong> · Restricted<br/>
 Broadcast multiview and controlled recording.<br/>
 <a href="https://datavista.studio/cr/">Project link</a></p>
 </td>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/academy/"><img src="../media/cards/satr-academy.svg" alt="SATR ACADEMY project illustration" width="600" /></a>
+<a href="https://datavista.studio/academy/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/satr-academy.jpg" alt="SATR ACADEMY project illustration" width="600" /></a>
 <p><strong>SATR ACADEMY</strong> · Public catalogue<br/>
 Courses, instructors and education workflows.<br/>
 <a href="https://datavista.studio/academy/">Project link</a></p>
@@ -51,13 +51,13 @@ Courses, instructors and education workflows.<br/>
 </tr>
 <tr>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/ebook/"><img src="../media/cards/ebook.svg" alt="EBOOK LIBRARY project illustration" width="600" /></a>
+<a href="https://datavista.studio/ebook/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/ebook.jpg" alt="EBOOK LIBRARY project illustration" width="600" /></a>
 <p><strong>EBOOK LIBRARY</strong> · Public catalogue<br/>
 Source-linked Arabic books and authors.<br/>
 <a href="https://datavista.studio/ebook/">Project link</a></p>
 </td>
 <td align="left" valign="top" width="50%">
-<a href="https://datavista.studio/stock/"><img src="../media/cards/stock.svg" alt="DATAVISTA STOCK project illustration" width="600" /></a>
+<a href="https://datavista.studio/stock/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/stock.jpg" alt="DATAVISTA STOCK project illustration" width="600" /></a>
 <p><strong>DATAVISTA STOCK</strong> · Preview<br/>
 Asset discovery and market information.<br/>
 <a href="https://datavista.studio/stock/">Project link</a></p>
@@ -65,13 +65,13 @@ Asset discovery and market information.<br/>
 </tr>
 <tr>
 <td align="left" valign="top" width="50%">
-<a href="https://961.menu/"><img src="../media/cards/961-menu.svg" alt="961.MENU project illustration" width="600" /></a>
+<a href="https://961.menu/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/961-menu.jpg" alt="961.MENU project illustration" width="600" /></a>
 <p><strong>961.MENU</strong> · Live service<br/>
 Digital merchant pages, menus and orders.<br/>
 <a href="https://961.menu/">Project link</a></p>
 </td>
 <td align="left" valign="top" width="50%">
-<a href="https://meet.almayadeen.online/"><img src="../media/cards/talk.svg" alt="AL MAYADEEN TALK project illustration" width="600" /></a>
+<a href="https://meet.almayadeen.online/"><img src="https://datavista.studio/assets/portfolio-20261122/cards/talk.jpg" alt="AL MAYADEEN TALK project illustration" width="600" /></a>
 <p><strong>AL MAYADEEN TALK</strong> · Restricted<br/>
 Interviews and live media production workflows.<br/>
 <a href="https://meet.almayadeen.online/">Project link</a></p>
