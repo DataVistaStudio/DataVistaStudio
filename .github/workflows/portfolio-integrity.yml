@@ -8,12 +8,14 @@ on:
       - 'scripts/check_portfolio.py'
       - 'media/cards/*.svg'
       - '.github/workflows/*.yml'
+      - '.github/workflows/*.yaml'
   pull_request:
     paths:
       - '**/*.md'
       - 'scripts/check_portfolio.py'
       - 'media/cards/*.svg'
       - '.github/workflows/*.yml'
+      - '.github/workflows/*.yaml'
   workflow_dispatch:
 
 permissions:
