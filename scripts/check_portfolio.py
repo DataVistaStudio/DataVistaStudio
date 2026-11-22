@@ -139,6 +139,26 @@ def check_vector_artwork():
     if len(fingerprints) != len(EXPECTED_SVGS):
         errors.append("vector artwork duplicates detected")
 
+def verify_workflows_are_read_only(problems):
+    """Check simple CI safety invariants, not a substitute for human review."""
+    files = sorted((ROOT / ".github" / "workflows").glob("*.yml"))
+    if not files:
+        problems.append("missing GitHub Actions workflows")
+    for workflow in files:
+        source = workflow.read_text(encoding="utf-8")
+        if not re.search(r"(?m)^permissions:\s*\n\s+contents:\s*read\s*$", source):
+            problems.append(f"{workflow.name}: missing explicit read-only token scope")
+        if re.search(r"(?m)^\s*pull_request_target\s*:", source):
+            problems.append(f"{workflow.name}: unsafe privileged PR trigger")
+        if re.search(r"(?m)^\s*runs-on:\s*.*self-hosted", source):
+            problems.append(f"{workflow.name}: unexpected self-hosted runner")
+        for action in re.findall(r"(?m)^\s*uses:\s*([^\s#]+)", source):
+            if not re.fullmatch(r"[\w.-]+/[\w.-]+@[0-9a-f]{40}", action):
+                problems.append(f"{workflow.name}: unpinned action {action}")
+        if "actions/checkout@" in source and "persist-credentials: false" not in source:
+            problems.append(f"{workflow.name}: checkout must not persist credentials")
+
+
 def main():
     # Protect against accidentally running this workflow against another account/repository.
     for var, expected in (
@@ -149,6 +169,7 @@ def main():
         actual = os.environ.get(var)
         if actual and actual != expected:
             errors.append(f"wrong GitHub target: {var}={actual}, expected {expected}")
+    verify_workflows_are_read_only(errors)
     for doc in sorted(ROOT.rglob("*.md")):
         check_local_links(doc)
     for doc in PROJECT_GALLERIES:
