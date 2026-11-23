@@ -14,6 +14,7 @@ on:
     paths:
       - '**/*.md'
       - 'scripts/check_portfolio.py'
+      - 'scripts/test_workflow_safety.py'
       - 'media/cards/*.svg'
       - '.github/workflows/*.yml'
       - '.github/workflows/*.yaml'
