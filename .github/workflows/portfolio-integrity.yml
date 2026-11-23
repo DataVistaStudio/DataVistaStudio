@@ -10,14 +10,8 @@ on:
       - 'media/cards/*.svg'
       - '.github/workflows/*.yml'
       - '.github/workflows/*.yaml'
+  # Run for every PR because this is a required merge check.
   pull_request:
-    paths:
-      - '**/*.md'
-      - 'scripts/check_portfolio.py'
-      - 'scripts/test_workflow_safety.py'
-      - 'media/cards/*.svg'
-      - '.github/workflows/*.yml'
-      - '.github/workflows/*.yaml'
   workflow_dispatch:
 
 permissions:
